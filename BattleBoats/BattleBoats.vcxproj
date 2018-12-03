@@ -76,6 +76,7 @@
       <Optimization>Disabled</Optimization>
       <SDLCheck>true</SDLCheck>
       <ConformanceMode>true</ConformanceMode>
+      <AdditionalOptions>/std:c++17 %(AdditionalOptions)</AdditionalOptions>
     </ClCompile>
   </ItemDefinitionGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
@@ -115,6 +116,47 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="AIBoard.cpp" />
+    <ClCompile Include="Board.cpp" />
+    <ClCompile Include="Cell.cpp" />
+    <ClCompile Include="ConsoleUI.cpp" />
+    <ClCompile Include="FiledPersistance.cpp" />
+    <ClCompile Include="FiledValidation.cpp" />
+    <ClCompile Include="Game.cpp" />
+    <ClCompile Include="HardCodedPersistance.cpp" />
+    <ClCompile Include="HardCodedValidation.cpp" />
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="PersistanceHandler.hpp" />
+    <ClCompile Include="PlayerBoard.cpp" />
+    <ClCompile Include="Session.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="AdminSession.hpp" />
+    <ClInclude Include="AIBoard.hpp" />
+    <ClInclude Include="AircraftCarrierBoat.hpp" />
+    <ClInclude Include="AuthenticatorHandler.hpp" />
+    <ClInclude Include="BattleshipBoat.hpp" />
+    <ClInclude Include="Board.hpp" />
+    <ClInclude Include="Boat.hpp" />
+    <ClInclude Include="Cell.hpp" />
+    <ClInclude Include="ConsoleLogger.hpp" />
+    <ClInclude Include="ConsoleUI.hpp" />
+    <ClInclude Include="CruiserBoat.hpp" />
+    <ClInclude Include="DestroyerBoat.hpp" />
+    <ClInclude Include="FiledPersistance.hpp" />
+    <ClInclude Include="FiledValidation.hpp" />
+    <ClInclude Include="Game.hpp" />
+    <ClInclude Include="HardCodedPersistance.hpp" />
+    <ClInclude Include="HardCodedValidation.hpp" />
+    <ClInclude Include="WordAuthenticator.hpp" />
+    <ClInclude Include="NumberAuthenticator.hpp" />
+    <ClInclude Include="ValidationHandler.hpp" />
+    <ClInclude Include="LoggerHandler.hpp" />
+    <ClInclude Include="PlayerBoard.hpp" />
+    <ClInclude Include="PlayerSession.hpp" />
+    <ClInclude Include="Session.hpp" />
+    <ClInclude Include="SubmarineBoat.hpp" />
+    <ClInclude Include="UIHandler.hpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
