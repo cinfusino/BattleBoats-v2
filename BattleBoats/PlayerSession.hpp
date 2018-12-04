@@ -3,7 +3,9 @@
 
 #include <memory>
 #include <string>
-
+#include <fstream>
+#include <chrono>
+#include <iomanip>
 #include "Session.hpp"
 #include "Game.hpp"
 
@@ -53,7 +55,29 @@ namespace Domain::BattleBoats
 		}
 		if (command == "Submit Bug Report")
 		{
-			std::cout << "Submit Bug Report";
+
+			std::string reportContents;
+
+
+			std::cout << "\nSubmit Bug Report\nEnter your report below. Press ENTER to submit.\n";
+			
+			
+			std::cin.ignore();
+
+			std::ofstream reportFile("BugReports.txt", std::ios::app);
+
+
+			std::getline(std::cin, reportContents);
+
+			auto now = std::chrono::system_clock::to_time_t(std::chrono::system_clock::now());
+
+			#pragma warning(suppress : 4996)  // Turns off MSVC warning
+			reportFile << std::put_time(std::localtime(&now), "%Y-%m-%d %X") << '\n' << reportContents << "\n\n";
+
+			reportFile.close();
+
+			std::cout << "\nReport Submitted.";
+			
 		}
 
 

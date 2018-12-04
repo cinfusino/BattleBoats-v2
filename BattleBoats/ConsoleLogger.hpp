@@ -46,7 +46,7 @@ namespace TechnicalServices::Logging
 
 		_logFile.open("SystemLogs.txt", std::ios::app);
 		#pragma warning(suppress : 4996)  // Turns off MSVC warning
-		_logFile << '\n' << std::put_time(std::localtime(&now), "%Y-%m-%d %X") << " | " << message;;
+		_logFile << '\n' << std::put_time(std::localtime(&now), "%Y-%m-%d %X") << " | " << message;
 
 		
 

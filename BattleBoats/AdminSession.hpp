@@ -41,7 +41,11 @@ namespace Domain::BattleBoats
 		}
 		if (command == "View Bug Reports")
 		{
-			std::cout << "View Bug Reports";
+			std::ifstream logFile("BugReports.txt");
+			if (logFile.is_open())
+			{
+				std::cout << logFile.rdbuf();
+			}
 		}
 		if (command == "Delete User")
 		{

@@ -25,3 +25,212 @@
 2018-12-03 21:57:08 | FiledValidation shutdown.
 2018-12-03 21:57:08 | Console Logger shutdown.
 2018-12-03 21:57:08 | Console Logger shutdown.
+2018-12-03 22:16:39 | Console Logger initialized
+2018-12-03 22:16:39 | Console Logger initialized
+2018-12-03 22:16:39 | FiledValidation initialized.
+2018-12-03 22:16:39 | ConsoleUI Initialized
+2018-12-03 22:16:39 | ConsoleUI Launched
+2018-12-03 22:16:50 | Login Successful for [Carmine] as role [Player].
+2018-12-03 22:20:35 | Console Logger initialized
+2018-12-03 22:20:35 | Console Logger initialized
+2018-12-03 22:20:35 | FiledValidation initialized.
+2018-12-03 22:20:35 | ConsoleUI Initialized
+2018-12-03 22:20:35 | ConsoleUI Launched
+2018-12-03 22:20:41 | Login Successful for [Carmine] as role [Player].
+2018-12-03 22:20:56 | Console Logger initialized
+2018-12-03 22:20:56 | Console Logger initialized
+2018-12-03 22:20:56 | FiledValidation initialized.
+2018-12-03 22:20:56 | ConsoleUI Initialized
+2018-12-03 22:20:56 | ConsoleUI Launched
+2018-12-03 22:21:07 | Login Successful for [Carmine] as role [Player].
+2018-12-03 22:21:31 | ConsoleUI Shutdown
+2018-12-03 22:21:31 | FiledValidation shutdown.
+2018-12-03 22:21:31 | Console Logger shutdown.
+2018-12-03 22:21:31 | Console Logger shutdown.
+2018-12-03 22:21:57 | Console Logger initialized
+2018-12-03 22:21:57 | Console Logger initialized
+2018-12-03 22:21:57 | FiledValidation initialized.
+2018-12-03 22:21:57 | ConsoleUI Initialized
+2018-12-03 22:21:57 | ConsoleUI Launched
+2018-12-03 22:22:07 | Login Successful for [Carmine] as role [Player].
+2018-12-03 22:22:24 | ConsoleUI Shutdown
+2018-12-03 22:22:24 | FiledValidation shutdown.
+2018-12-03 22:22:24 | Console Logger shutdown.
+2018-12-03 22:22:24 | Console Logger shutdown.
+2018-12-03 22:27:35 | Console Logger initialized
+2018-12-03 22:27:35 | Console Logger initialized
+2018-12-03 22:27:35 | FiledValidation initialized.
+2018-12-03 22:27:35 | ConsoleUI Initialized
+2018-12-03 22:27:35 | ConsoleUI Launched
+2018-12-03 22:27:55 | Login Successful for [Carmine] as role [Player].
+2018-12-03 22:28:11 | ConsoleUI Shutdown
+2018-12-03 22:28:11 | FiledValidation shutdown.
+2018-12-03 22:28:11 | Console Logger shutdown.
+2018-12-03 22:28:11 | Console Logger shutdown.
+2018-12-03 22:35:33 | Console Logger initialized
+2018-12-03 22:35:33 | Console Logger initialized
+2018-12-03 22:35:33 | FiledValidation initialized.
+2018-12-03 22:35:33 | ConsoleUI Initialized
+2018-12-03 22:35:33 | ConsoleUI Launched
+2018-12-03 22:35:49 | Login Successful for [Carmine] as role [Player].
+2018-12-03 22:36:06 | ConsoleUI Shutdown
+2018-12-03 22:36:06 | FiledValidation shutdown.
+2018-12-03 22:36:06 | Console Logger shutdown.
+2018-12-03 22:36:06 | Console Logger shutdown.
+2018-12-03 22:36:12 | Console Logger initialized
+2018-12-03 22:36:12 | Console Logger initialized
+2018-12-03 22:36:12 | FiledValidation initialized.
+2018-12-03 22:36:12 | ConsoleUI Initialized
+2018-12-03 22:36:12 | ConsoleUI Launched
+2018-12-03 22:36:26 | Login Successful for [Carmine] as role [Player].
+2018-12-03 22:36:42 | ConsoleUI Shutdown
+2018-12-03 22:36:42 | FiledValidation shutdown.
+2018-12-03 22:36:42 | Console Logger shutdown.
+2018-12-03 22:36:42 | Console Logger shutdown.
+2018-12-03 22:37:52 | Console Logger initialized
+2018-12-03 22:37:52 | Console Logger initialized
+2018-12-03 22:37:52 | FiledValidation initialized.
+2018-12-03 22:37:52 | ConsoleUI Initialized
+2018-12-03 22:37:52 | ConsoleUI Launched
+2018-12-03 22:37:59 | Login Successful for [Carmine] as role [Player].
+2018-12-03 22:38:34 | Console Logger initialized
+2018-12-03 22:38:34 | Console Logger initialized
+2018-12-03 22:38:34 | FiledValidation initialized.
+2018-12-03 22:38:34 | ConsoleUI Initialized
+2018-12-03 22:38:34 | ConsoleUI Launched
+2018-12-03 22:38:44 | Login Successful for [Carmine] as role [Player].
+2018-12-03 22:39:26 | Console Logger initialized
+2018-12-03 22:39:26 | Console Logger initialized
+2018-12-03 22:39:26 | FiledValidation initialized.
+2018-12-03 22:39:26 | ConsoleUI Initialized
+2018-12-03 22:39:26 | ConsoleUI Launched
+2018-12-03 22:39:32 | Login Successful for [Carmine] as role [Player].
+2018-12-03 22:39:42 | ConsoleUI Shutdown
+2018-12-03 22:39:42 | FiledValidation shutdown.
+2018-12-03 22:39:42 | Console Logger shutdown.
+2018-12-03 22:39:42 | Console Logger shutdown.
+2018-12-03 22:40:42 | Console Logger initialized
+2018-12-03 22:40:42 | Console Logger initialized
+2018-12-03 22:40:42 | FiledValidation initialized.
+2018-12-03 22:40:42 | ConsoleUI Initialized
+2018-12-03 22:40:42 | ConsoleUI Launched
+2018-12-03 22:40:58 | Login Successful for [Carmine] as role [Player].
+2018-12-03 22:41:10 | ConsoleUI Shutdown
+2018-12-03 22:41:10 | FiledValidation shutdown.
+2018-12-03 22:41:10 | Console Logger shutdown.
+2018-12-03 22:41:10 | Console Logger shutdown.
+2018-12-03 22:41:40 | Console Logger initialized
+2018-12-03 22:41:40 | Console Logger initialized
+2018-12-03 22:41:40 | FiledValidation initialized.
+2018-12-03 22:41:40 | ConsoleUI Initialized
+2018-12-03 22:41:40 | ConsoleUI Launched
+2018-12-03 22:41:46 | Login Successful for [Carmine] as role [Player].
+2018-12-03 22:41:57 | ConsoleUI Shutdown
+2018-12-03 22:41:57 | FiledValidation shutdown.
+2018-12-03 22:41:57 | Console Logger shutdown.
+2018-12-03 22:41:57 | Console Logger shutdown.
+2018-12-03 22:42:10 | Console Logger initialized
+2018-12-03 22:42:10 | Console Logger initialized
+2018-12-03 22:42:10 | FiledValidation initialized.
+2018-12-03 22:42:10 | ConsoleUI Initialized
+2018-12-03 22:42:10 | ConsoleUI Launched
+2018-12-03 22:42:18 | Login Successful for [Carmine] as role [Player].
+2018-12-03 22:42:27 | ConsoleUI Shutdown
+2018-12-03 22:42:27 | FiledValidation shutdown.
+2018-12-03 22:42:27 | Console Logger shutdown.
+2018-12-03 22:42:27 | Console Logger shutdown.
+2018-12-03 22:43:30 | Console Logger initialized
+2018-12-03 22:43:30 | Console Logger initialized
+2018-12-03 22:43:30 | FiledValidation initialized.
+2018-12-03 22:43:30 | ConsoleUI Initialized
+2018-12-03 22:43:30 | ConsoleUI Launched
+2018-12-03 22:43:37 | Login Successful for [Carmine] as role [Admin].
+2018-12-03 22:43:53 | Console Logger initialized
+2018-12-03 22:43:53 | Console Logger initialized
+2018-12-03 22:43:53 | FiledValidation initialized.
+2018-12-03 22:43:53 | ConsoleUI Initialized
+2018-12-03 22:43:53 | ConsoleUI Launched
+2018-12-03 22:43:58 | Login Successful for [Carmine] as role [Player].
+2018-12-03 22:44:06 | ConsoleUI Shutdown
+2018-12-03 22:44:06 | FiledValidation shutdown.
+2018-12-03 22:44:06 | Console Logger shutdown.
+2018-12-03 22:44:06 | Console Logger shutdown.
+2018-12-03 22:44:08 | Console Logger initialized
+2018-12-03 22:44:08 | Console Logger initialized
+2018-12-03 22:44:08 | FiledValidation initialized.
+2018-12-03 22:44:08 | ConsoleUI Initialized
+2018-12-03 22:44:08 | ConsoleUI Launched
+2018-12-03 22:44:14 | Login Successful for [Carmine] as role [Admin].
+2018-12-03 22:45:01 | Console Logger initialized
+2018-12-03 22:45:01 | Console Logger initialized
+2018-12-03 22:45:01 | FiledValidation initialized.
+2018-12-03 22:45:01 | ConsoleUI Initialized
+2018-12-03 22:45:01 | ConsoleUI Launched
+2018-12-03 22:45:07 | Login Successful for [Carmine] as role [Player].
+2018-12-03 22:45:27 | ConsoleUI Shutdown
+2018-12-03 22:45:27 | FiledValidation shutdown.
+2018-12-03 22:45:27 | Console Logger shutdown.
+2018-12-03 22:45:27 | Console Logger shutdown.
+2018-12-03 22:45:30 | Console Logger initialized
+2018-12-03 22:45:30 | Console Logger initialized
+2018-12-03 22:45:30 | FiledValidation initialized.
+2018-12-03 22:45:30 | ConsoleUI Initialized
+2018-12-03 22:45:30 | ConsoleUI Launched
+2018-12-03 22:45:37 | Login Successful for [Carmine] as role [Admin].
+2018-12-03 22:48:45 | Console Logger initialized
+2018-12-03 22:48:45 | Console Logger initialized
+2018-12-03 22:48:45 | FiledValidation initialized.
+2018-12-03 22:48:45 | ConsoleUI Initialized
+2018-12-03 22:48:45 | ConsoleUI Launched
+2018-12-03 22:48:52 | Login Successful for [Carmine] as role [Player].
+2018-12-03 22:49:01 | ConsoleUI Shutdown
+2018-12-03 22:49:01 | FiledValidation shutdown.
+2018-12-03 22:49:01 | Console Logger shutdown.
+2018-12-03 22:49:01 | Console Logger shutdown.
+2018-12-03 22:49:20 | Console Logger initialized
+2018-12-03 22:49:20 | Console Logger initialized
+2018-12-03 22:49:20 | FiledValidation initialized.
+2018-12-03 22:49:20 | ConsoleUI Initialized
+2018-12-03 22:49:20 | ConsoleUI Launched
+2018-12-03 22:49:26 | Login Successful for [Carmine] as role [Player].
+2018-12-03 22:49:34 | ConsoleUI Shutdown
+2018-12-03 22:49:34 | FiledValidation shutdown.
+2018-12-03 22:49:34 | Console Logger shutdown.
+2018-12-03 22:49:34 | Console Logger shutdown.
+2018-12-03 22:49:55 | Console Logger initialized
+2018-12-03 22:49:55 | Console Logger initialized
+2018-12-03 22:49:55 | FiledValidation initialized.
+2018-12-03 22:49:55 | ConsoleUI Initialized
+2018-12-03 22:49:55 | ConsoleUI Launched
+2018-12-03 22:50:03 | Login Successful for [Carmine] as role [Player].
+2018-12-03 22:50:13 | ConsoleUI Shutdown
+2018-12-03 22:50:13 | FiledValidation shutdown.
+2018-12-03 22:50:13 | Console Logger shutdown.
+2018-12-03 22:50:13 | Console Logger shutdown.
+2018-12-03 22:50:15 | Console Logger initialized
+2018-12-03 22:50:15 | Console Logger initialized
+2018-12-03 22:50:15 | FiledValidation initialized.
+2018-12-03 22:50:15 | ConsoleUI Initialized
+2018-12-03 22:50:15 | ConsoleUI Launched
+2018-12-03 22:50:24 | Login Successful for [Carmine] as role [Player].
+2018-12-03 22:50:31 | ConsoleUI Shutdown
+2018-12-03 22:50:31 | FiledValidation shutdown.
+2018-12-03 22:50:31 | Console Logger shutdown.
+2018-12-03 22:50:31 | Console Logger shutdown.
+2018-12-03 22:50:34 | Console Logger initialized
+2018-12-03 22:50:34 | Console Logger initialized
+2018-12-03 22:50:34 | FiledValidation initialized.
+2018-12-03 22:50:34 | ConsoleUI Initialized
+2018-12-03 22:50:34 | ConsoleUI Launched
+2018-12-03 22:50:40 | Login Successful for [Carmine] as role [Admin].
+2018-12-03 22:50:58 | ConsoleUI Shutdown
+2018-12-03 22:50:58 | FiledValidation shutdown.
+2018-12-03 22:50:58 | Console Logger shutdown.
+2018-12-03 22:50:58 | Console Logger shutdown.
+2018-12-03 22:51:42 | Console Logger initialized
+2018-12-03 22:51:42 | Console Logger initialized
+2018-12-03 22:51:42 | FiledValidation initialized.
+2018-12-03 22:51:42 | ConsoleUI Initialized
+2018-12-03 22:51:42 | ConsoleUI Launched
+2018-12-03 22:51:49 | Login failure for "Carmine" as role "Admin"
+2018-12-03 22:51:57 | Login Successful for [Carmine] as role [Admin].
