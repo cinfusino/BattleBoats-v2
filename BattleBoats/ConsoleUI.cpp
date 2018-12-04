@@ -18,19 +18,16 @@ namespace UI
 		_loggerPtr (new TechnicalServices::Logging::ConsoleLogger),
 		_validator (new Domain::AccountManagement::FiledValidation)
 	{
-		std::cout << "\nInitializing ConsoleUI...";
 		_logger << "ConsoleUI Initialized";
 	}
 
 	ConsoleUI::~ConsoleUI()
 	{
-		std::cout << "\nShutting down ConsoleUI...";
 		_logger << "ConsoleUI Shutdown";
 	}
 
 	void ConsoleUI::launch()
 	{
-		std::cout << "\nLaunching ConsoleUI...";
 		_logger << "ConsoleUI Launched";
 
 		std::cout << "\n1. Log in\n2. Create Account\n3. Shut down";
@@ -98,12 +95,10 @@ namespace UI
 			if (_validator->isValid({ userName, userPassword, {selectedRole} }))
 			{
 				_logger << "Login Successful for [" + userName + "] as role [" + selectedRole + "].";
-				std::cout << "\nLogin Successful for [" + userName + "] as role [" + selectedRole + "].";
 				break;
 			}
 			std::cout << "** Login failed\n";
 			_logger << "Login failure for \"" + userName + "\" as role \"" + selectedRole + "\"";
-			std::cout << "\nLogin failure for \"" + userName + "\" as role \"" + selectedRole + "\"";
 
 		} while (true);
 

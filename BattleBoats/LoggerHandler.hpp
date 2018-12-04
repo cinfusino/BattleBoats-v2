@@ -1,12 +1,9 @@
 #ifndef TechnicalServices_Logging_LoggerHandler_hpp
 #define TechnicalServices_Logging_LoggerHandler_hpp
 
-#include <string>
-#include <vector>
-#include <chrono>
-#include <sstream>
-#include <iomanip>
 
+#include <iostream>
+#include <string>
 
 namespace TechnicalServices::Logging
 {
@@ -14,7 +11,7 @@ namespace TechnicalServices::Logging
 	{
 		public:
 
-			LoggerHandler() = default;
+			LoggerHandler(std::ostream & loggingStream = std::clog);
 
 			virtual LoggerHandler & operator<< (const std::string & message) = 0;
 		
@@ -22,10 +19,12 @@ namespace TechnicalServices::Logging
 		
 		protected:
 
-			std::vector<std::string> LoggerBuffer;
+			std::ostream & _loggingStream;
 	};
 
-	
+	inline LoggerHandler::LoggerHandler(std::ostream & loggingStream)
+		: _loggingStream(loggingStream)
+	{}
 
 	inline LoggerHandler::~LoggerHandler(){}
 

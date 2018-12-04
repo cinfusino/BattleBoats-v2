@@ -14,42 +14,42 @@ namespace TechnicalServices::Logging
 	class ConsoleLogger : public TechnicalServices::Logging::LoggerHandler
 	{
 	public:
+
 		using LoggerHandler::LoggerHandler;
-		ConsoleLogger() = default;
+		ConsoleLogger(std::ostream & loggingStream = std::clog);
 
-		ConsoleLogger & operator<< (const std::string & message);
+		ConsoleLogger & operator<< (const std::string & message) override;
 
-		~ConsoleLogger();
-
-	protected:
-
-		std::vector<std::string> LoggerBuffer;
-
+		~ConsoleLogger() override;
 
 
 
 	};
 
+	inline ConsoleLogger::ConsoleLogger(std::ostream & loggingStream)
+		:LoggerHandler(loggingStream)
+	{
+		loggingStream << std::unitbuf;
+
+		*this << "Console Logger initialized";
+	}
+
 	inline ConsoleLogger & ConsoleLogger::operator<< (const std::string & message)
 	{
 		auto now = std::chrono::system_clock::to_time_t(std::chrono::system_clock::now());
 
-		std::stringstream ss;
+		#pragma warning(suppress : 4996)  // Turns off MSVC warning
+		_loggingStream << '\n' << std::put_time(std::localtime(&now), "%Y-%m-%d %X") << " | ";
 
-		#pragma warning(suppress : 4996)
-		ss << std::put_time(std::localtime(&now), "%Y-%m-%d %X");
-
-		std::string logMessage = "";
-
-		logMessage = ss.str() + "-------------" + message;
-
-
-		LoggerBuffer.push_back(logMessage);
+		_loggingStream << message ;
 
 		return *this;
 	}
 
-	inline ConsoleLogger::~ConsoleLogger() {}
+	inline ConsoleLogger::~ConsoleLogger() 
+	{
+		*this << "Console Logger shutdown.";
+	}
 
 
 
