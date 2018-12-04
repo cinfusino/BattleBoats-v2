@@ -17,6 +17,7 @@ namespace Domain::BattleBoats
 		public:
 			Game();
 			void playGame();
+			void putStats();
 			~Game();
 
 

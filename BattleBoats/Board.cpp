@@ -5,12 +5,6 @@
 #include "Cell.hpp"
 #include "Board.hpp"
 
-#include "AircraftCarrierBoat.hpp"
-#include "BattleshipBoat.hpp"
-#include "CruiserBoat.hpp"
-#include "SubmarineBoat.hpp"
-#include "DestroyerBoat.hpp"
-
 
 namespace Domain::BattleBoats
 {
@@ -50,6 +44,10 @@ namespace Domain::BattleBoats
 		return defeatFlag;
 	}
 
+	int Board::getHealth()
+	{
+		return health;
+	}
 	
 
 }

@@ -33,7 +33,7 @@ namespace UI
 			
 
 			TechnicalServices::Logging::LoggerHandler & _logger = *_loggerPtr;
-			int i;
+
 	};
 }
 

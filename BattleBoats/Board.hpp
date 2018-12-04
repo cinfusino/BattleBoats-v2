@@ -32,6 +32,8 @@ namespace Domain::BattleBoats
 
 			bool getDefeatFlag();
 
+			int getHealth();
+
 			
 
 

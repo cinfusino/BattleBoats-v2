@@ -30,18 +30,18 @@ namespace UI
 	{
 		_logger << "ConsoleUI Launched";
 
-		std::cout << "\n1. Log in\n2. Create Account\n3. Shut down";
+		std::cout << "\n0. Log in\n1. Create Account\n2. Shut down";
 		std::cout << "\nPlease enter a command:";
 		
 		int selection;
 
 		//NEEDS PROPER LOOP
 		std::cin >> selection;
-		if (selection == 1)
+		if (selection == 0)
 		{
 			createSession();
 		}
-		else if (selection == 2)
+		else if (selection == 1)
 		{
 			createAccount();
 		}
