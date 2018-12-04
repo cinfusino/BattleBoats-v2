@@ -3,7 +3,7 @@
 
 #include <memory>
 #include <string>
-
+#include <fstream>
 #include "Session.hpp"
 
 namespace Domain::BattleBoats
@@ -33,7 +33,11 @@ namespace Domain::BattleBoats
 		}
 		if (command == "View User Logs")
 		{
-			std::cout << "View User Logs";
+			std::ifstream logFile("SystemLogs.txt");
+			if (logFile.is_open())
+			{
+				std::cout << logFile.rdbuf();
+			}
 		}
 		if (command == "View Bug Reports")
 		{

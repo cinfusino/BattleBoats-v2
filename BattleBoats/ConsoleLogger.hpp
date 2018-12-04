@@ -41,17 +41,14 @@ namespace TechnicalServices::Logging
 		auto now = std::chrono::system_clock::to_time_t(std::chrono::system_clock::now());
 
 		#pragma warning(suppress : 4996)  // Turns off MSVC warning
-		_loggingStream << '\n' << std::put_time(std::localtime(&now), "%Y-%m-%d %X") << " | ";
-
-		_loggingStream << message ;
+		_loggingStream << '\n' << std::put_time(std::localtime(&now), "%Y-%m-%d %X") << " | " << message;
 
 
 		_logFile.open("SystemLogs.txt", std::ios::app);
-
 		#pragma warning(suppress : 4996)  // Turns off MSVC warning
-		_logFile << '\n' << std::put_time(std::localtime(&now), "%Y-%m-%d %X") << " | ";
+		_logFile << '\n' << std::put_time(std::localtime(&now), "%Y-%m-%d %X") << " | " << message;;
 
-		_logFile << message;
+		
 
 		_logFile.close();
 
