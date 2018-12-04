@@ -16,7 +16,7 @@ namespace Domain::AccountManagement
 	class FiledValidation : public Domain::AccountManagement::ValidationHandler
 	{
 	public:
-		using ValidationHandler::ValidationHandler;  // inherit constructors
+		using ValidationHandler::ValidationHandler; 
 		FiledValidation();
 
 		// Operations
@@ -24,7 +24,7 @@ namespace Domain::AccountManagement
 
 
 		// Destructor
-		~FiledValidation() noexcept override;
+		~FiledValidation()  override;
 
 
 	private:

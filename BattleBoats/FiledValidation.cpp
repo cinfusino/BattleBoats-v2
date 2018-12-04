@@ -16,14 +16,14 @@ namespace Domain::AccountManagement
 		_loggerPtr(new TechnicalServices::Logging::ConsoleLogger),
 		_authenticator(new Domain::AccountManagement::WordAuthenticator)
 	{
-		_logger << "FiledValidation being used and has been successfully initialized";
+		_logger << "FiledValidation initialized.";
 	}
 
 
 	// Destructor
-	FiledValidation::~FiledValidation() noexcept
+	FiledValidation::~FiledValidation() 
 	{
-		_logger << "FiledValidation shutdown successfully";
+		_logger << "FiledValidation shutdown.";
 	}
 
 

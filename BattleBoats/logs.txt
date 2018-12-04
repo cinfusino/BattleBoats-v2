@@ -1,0 +1,6 @@
+
+2018-12-03 21:37:23 | Console Logger initialized
+2018-12-03 21:37:23 | Console Logger initialized
+2018-12-03 21:37:23 | FiledValidation initialized.
+2018-12-03 21:37:23 | ConsoleUI Initialized
+2018-12-03 21:37:23 | ConsoleUI Launched

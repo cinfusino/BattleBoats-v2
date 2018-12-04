@@ -2,10 +2,9 @@
 #define TechnicalServices_Logging_ConsoleLogger_hpp
 
 #include <string>
-#include <vector>
 #include <chrono>
-#include <sstream>
 #include <iomanip>
+#include <fstream>
 
 #include "LoggerHandler.hpp"
 
@@ -22,6 +21,9 @@ namespace TechnicalServices::Logging
 
 		~ConsoleLogger() override;
 
+	private:
+
+		std::ofstream _logFile;
 
 
 	};
@@ -42,6 +44,18 @@ namespace TechnicalServices::Logging
 		_loggingStream << '\n' << std::put_time(std::localtime(&now), "%Y-%m-%d %X") << " | ";
 
 		_loggingStream << message ;
+
+
+		_logFile.open("SystemLogs.txt", std::ios::app);
+
+		#pragma warning(suppress : 4996)  // Turns off MSVC warning
+		_logFile << '\n' << std::put_time(std::localtime(&now), "%Y-%m-%d %X") << " | ";
+
+		_logFile << message;
+
+		_logFile.close();
+
+
 
 		return *this;
 	}
