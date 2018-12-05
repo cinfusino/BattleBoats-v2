@@ -10,13 +10,15 @@
 #include "ConsoleLogger.hpp"
 #include "FiledValidation.hpp"
 #include "HardCodedValidation.hpp"
+#include "ConfigManager.hpp"
 
 namespace UI
 {
+	
 	ConsoleUI::ConsoleUI()
-		:_persistanceData (new TechnicalServices::Persistance::FiledPersistance),
-		_loggerPtr (new TechnicalServices::Logging::ConsoleLogger),
-		_validator (new Domain::AccountManagement::FiledValidation)
+		:_persistanceData (configManager->getPersistance()),
+		_loggerPtr (configManager->getLogger()),
+		_validator (configManager->getValidator())
 	{
 		_logger << "ConsoleUI Initialized";
 	}
@@ -35,7 +37,6 @@ namespace UI
 		
 		int selection;
 
-		//NEEDS PROPER LOOP
 		std::cin >> selection;
 		if (selection == 0)
 		{

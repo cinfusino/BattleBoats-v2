@@ -116,9 +116,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="AdminSession.cpp" />
     <ClCompile Include="AIBoard.cpp" />
     <ClCompile Include="Board.cpp" />
     <ClCompile Include="Cell.cpp" />
+    <ClCompile Include="ConfigManager.cpp" />
     <ClCompile Include="ConsoleUI.cpp" />
     <ClCompile Include="FiledPersistance.cpp" />
     <ClCompile Include="FiledValidation.cpp" />
@@ -128,6 +130,7 @@
     <ClCompile Include="main.cpp" />
     <ClCompile Include="PersistanceHandler.hpp" />
     <ClCompile Include="PlayerBoard.cpp" />
+    <ClCompile Include="PlayerSession.cpp" />
     <ClCompile Include="Session.cpp" />
   </ItemGroup>
   <ItemGroup>
@@ -139,6 +142,7 @@
     <ClInclude Include="Board.hpp" />
     <ClInclude Include="Boat.hpp" />
     <ClInclude Include="Cell.hpp" />
+    <ClInclude Include="ConfigManager.hpp" />
     <ClInclude Include="ConsoleLogger.hpp" />
     <ClInclude Include="ConsoleUI.hpp" />
     <ClInclude Include="CruiserBoat.hpp" />

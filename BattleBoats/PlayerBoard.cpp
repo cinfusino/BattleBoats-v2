@@ -19,11 +19,12 @@ namespace Domain::BattleBoats
 
 	void PlayerBoard::createFleet()
 	{
-		Fleet[0] = std::make_shared<Domain::BattleBoats::DestroyerBoat>();
-		Fleet[1] = std::make_shared<Domain::BattleBoats::CruiserBoat>();
-		Fleet[2] = std::make_shared<Domain::BattleBoats::SubmarineBoat>();
-		Fleet[3] = std::make_shared<Domain::BattleBoats::BattleshipBoat>();
-		Fleet[4] = std::make_shared<Domain::BattleBoats::AircraftCarrierBoat>();
+
+		Fleet[0] = std::make_unique<Domain::BattleBoats::DestroyerBoat>();
+		Fleet[1] = std::make_unique<Domain::BattleBoats::CruiserBoat>();
+		Fleet[2] = std::make_unique<Domain::BattleBoats::SubmarineBoat>();
+		Fleet[3] = std::make_unique<Domain::BattleBoats::BattleshipBoat>();
+		Fleet[4] = std::make_unique<Domain::BattleBoats::AircraftCarrierBoat>();
 
 	}
 

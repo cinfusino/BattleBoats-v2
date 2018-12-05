@@ -6,15 +6,17 @@
 
 #include "WordAuthenticator.hpp"
 #include "NumberAuthenticator.hpp"
+#include "ConfigManager.hpp"
 
 
 
 namespace Domain::AccountManagement
 {
+
 	FiledValidation::FiledValidation()
-		: _persistentData(new TechnicalServices::Persistance::FiledPersistance),
-		_loggerPtr(new TechnicalServices::Logging::ConsoleLogger),
-		_authenticator(new Domain::AccountManagement::WordAuthenticator)
+		: _persistentData(configManager->getPersistance()),
+		_loggerPtr(configManager->getLogger()),
+		_authenticator(configManager->getAuthenticator())
 	{
 		_logger << "FiledValidation initialized.";
 	}

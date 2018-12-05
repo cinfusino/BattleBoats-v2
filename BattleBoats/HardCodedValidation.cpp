@@ -7,13 +7,16 @@
 #include "WordAuthenticator.hpp"
 #include "NumberAuthenticator.hpp"
 
+#include "ConfigManager.hpp"
+
 
 namespace Domain::AccountManagement
 {
+
 	HardCodedValidation::HardCodedValidation()
-		: _persistentData(new TechnicalServices::Persistance::HardCodedPersistance),   
-		_loggerPtr(new TechnicalServices::Logging::ConsoleLogger),
-		_authenticator(new Domain::AccountManagement::WordAuthenticator)
+		: _persistentData(configManager->getPersistance()),
+		_loggerPtr(configManager->getLogger()),
+		_authenticator(configManager->getAuthenticator())
 	{
 		_logger << "HardCodedValidation being used and has been successfully initialized";
 	}
