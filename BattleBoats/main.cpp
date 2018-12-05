@@ -13,6 +13,7 @@ std::unique_ptr<TechnicalServices::ConfigManager> configManager(new TechnicalSer
 
 int main()
 {
+
 	std::unique_ptr<UI::UIHandler> userInterface(configManager->getUI());
 	
 	userInterface->launch();

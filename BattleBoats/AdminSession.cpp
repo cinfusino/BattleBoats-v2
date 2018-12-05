@@ -15,9 +15,10 @@
 namespace Domain::BattleBoats
 {
 	 AdminSession::AdminSession()
-		: _loggerPtr(configManager->getLogger())
+		: _loggerPtr(configManager->getLogger()),
+		 _authenticator(configManager->getAuthenticator())
 	{
-		_logger << "PlayerSession Created.";
+		_logger << "AdminSession Created.";
 	}
 
 
@@ -33,6 +34,54 @@ namespace Domain::BattleBoats
 		if (command == "Change Configuration")
 		{
 			_logger << "Change Configuration selected.";
+			
+
+			_authenticator->Authenticate();
+
+			//Display current settings.
+
+			std::cout << "\nCurrent Settings:\n";
+			std::ifstream configFile("ConfigFile.txt");
+			if (configFile.is_open())
+			{
+				std::cout << "\n" << configFile.rdbuf();
+			}
+			configFile.close();
+
+			std::vector<std::string> newConfig;
+			std::string UISetting, LoggerSetting, PersistanceSetting, AuthenticatorSetting, ValidationSetting;
+			
+			std::cout << "\nEnter new UI Setting: ";
+			std::cin >> UISetting;
+
+			std::cout << "\nEnter new Logger Setting: ";
+			std::cin >> LoggerSetting;
+
+			std::cout << "\nEnter new Persistance Setting: ";
+			std::cin >> PersistanceSetting;
+
+			std::cout << "\nEnter new Authenticator Setting: ";
+			std::cin >> AuthenticatorSetting;
+
+			std::cout << "\nEnter new Validation Setting: ";
+			std::cin >> ValidationSetting;
+
+			newConfig.push_back(UISetting);
+			newConfig.push_back(LoggerSetting);
+			newConfig.push_back(PersistanceSetting);
+			newConfig.push_back(AuthenticatorSetting);
+			newConfig.push_back(ValidationSetting);
+
+
+			//Replace old file...
+			remove("FiledUser.txt");
+
+			//...with new file.
+			std::ofstream outputFile("ConfigFile.txt");
+			std::ostream_iterator<std::string> output_iterator(outputFile, "\n");
+			std::copy(newConfig.begin(), newConfig.end(), output_iterator);
+
+			
 
 		}
 		if (command == "View User Logs")
@@ -56,7 +105,7 @@ namespace Domain::BattleBoats
 		if (command == "Delete User")
 		{
 			_logger << "Delete User selected.";
-
+			_authenticator->Authenticate();
 			//Display available users to delete.
 			std::ifstream userFile("FiledUsers.txt");
 			if (userFile.is_open())

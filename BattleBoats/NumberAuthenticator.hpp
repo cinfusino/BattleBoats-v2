@@ -26,7 +26,7 @@ namespace Domain::AccountManagement
 
 	inline bool NumberAuthenticator::Authenticate()
 	{
-		std::cout << "\nPlease check your Authenticator and enter the code below.\nCode:";
+		std::cout << "\nPlease check your Authenticator and enter the numeric code below.\nCode:";
 
 		int key;
 		std::cin >> key;

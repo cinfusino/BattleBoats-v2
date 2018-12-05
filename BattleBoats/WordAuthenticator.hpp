@@ -26,7 +26,7 @@ namespace Domain::AccountManagement
 
 	inline bool WordAuthenticator::Authenticate()
 	{
-		std::cout << "\nPlease check your Authenticator and enter the code below.\nCode:";
+		std::cout << "\nPlease check your Authenticator and enter the keyword below.\nKeyword:";
 
 		std::string key;
 		std::cin >> key;

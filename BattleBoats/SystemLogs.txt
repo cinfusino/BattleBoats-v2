@@ -1,1325 +1,361 @@
 
-2018-12-03 21:52:24 | Console Logger initialized
-2018-12-03 21:52:28 | Console Logger initialized
-2018-12-03 21:52:30 | FiledValidation initialized.
-2018-12-03 21:52:31 | ConsoleUI Initialized
-2018-12-03 21:52:33 | ConsoleUI Launched
-2018-12-03 21:52:57 | Login Successful for [Carmine] as role [Player].
-2018-12-03 21:53:08 | ConsoleUI Shutdown
-2018-12-03 21:53:11 | FiledValidation shutdown.
-2018-12-03 21:53:12 | Console Logger shutdown.
-2018-12-03 21:53:14 | Console Logger shutdown.
-2018-12-03 21:53:20 | Console Logger initialized
-2018-12-03 21:53:23 | Console Logger initialized
-2018-12-03 21:53:24 | FiledValidation initialized.
-2018-12-03 21:53:25 | ConsoleUI Initialized
-2018-12-03 21:53:28 | ConsoleUI Launched
-2018-12-03 21:53:55 | Login Successful for [Carmine] as role [Admin].
-2018-12-03 21:56:43 | Console Logger initialized
-2018-12-03 21:56:48 | Console Logger initialized
-2018-12-03 21:56:48 | FiledValidation initialized.
-2018-12-03 21:56:48 | ConsoleUI Initialized
-2018-12-03 21:56:48 | ConsoleUI Launched
-2018-12-03 21:56:59 | Login Successful for [Carmine] as role [Admin].
-2018-12-03 21:57:08 | ConsoleUI Shutdown
-2018-12-03 21:57:08 | FiledValidation shutdown.
-2018-12-03 21:57:08 | Console Logger shutdown.
-2018-12-03 21:57:08 | Console Logger shutdown.
-2018-12-03 22:16:39 | Console Logger initialized
-2018-12-03 22:16:39 | Console Logger initialized
-2018-12-03 22:16:39 | FiledValidation initialized.
-2018-12-03 22:16:39 | ConsoleUI Initialized
-2018-12-03 22:16:39 | ConsoleUI Launched
-2018-12-03 22:16:50 | Login Successful for [Carmine] as role [Player].
-2018-12-03 22:20:35 | Console Logger initialized
-2018-12-03 22:20:35 | Console Logger initialized
-2018-12-03 22:20:35 | FiledValidation initialized.
-2018-12-03 22:20:35 | ConsoleUI Initialized
-2018-12-03 22:20:35 | ConsoleUI Launched
-2018-12-03 22:20:41 | Login Successful for [Carmine] as role [Player].
-2018-12-03 22:20:56 | Console Logger initialized
-2018-12-03 22:20:56 | Console Logger initialized
-2018-12-03 22:20:56 | FiledValidation initialized.
-2018-12-03 22:20:56 | ConsoleUI Initialized
-2018-12-03 22:20:56 | ConsoleUI Launched
-2018-12-03 22:21:07 | Login Successful for [Carmine] as role [Player].
-2018-12-03 22:21:31 | ConsoleUI Shutdown
-2018-12-03 22:21:31 | FiledValidation shutdown.
-2018-12-03 22:21:31 | Console Logger shutdown.
-2018-12-03 22:21:31 | Console Logger shutdown.
-2018-12-03 22:21:57 | Console Logger initialized
-2018-12-03 22:21:57 | Console Logger initialized
-2018-12-03 22:21:57 | FiledValidation initialized.
-2018-12-03 22:21:57 | ConsoleUI Initialized
-2018-12-03 22:21:57 | ConsoleUI Launched
-2018-12-03 22:22:07 | Login Successful for [Carmine] as role [Player].
-2018-12-03 22:22:24 | ConsoleUI Shutdown
-2018-12-03 22:22:24 | FiledValidation shutdown.
-2018-12-03 22:22:24 | Console Logger shutdown.
-2018-12-03 22:22:24 | Console Logger shutdown.
-2018-12-03 22:27:35 | Console Logger initialized
-2018-12-03 22:27:35 | Console Logger initialized
-2018-12-03 22:27:35 | FiledValidation initialized.
-2018-12-03 22:27:35 | ConsoleUI Initialized
-2018-12-03 22:27:35 | ConsoleUI Launched
-2018-12-03 22:27:55 | Login Successful for [Carmine] as role [Player].
-2018-12-03 22:28:11 | ConsoleUI Shutdown
-2018-12-03 22:28:11 | FiledValidation shutdown.
-2018-12-03 22:28:11 | Console Logger shutdown.
-2018-12-03 22:28:11 | Console Logger shutdown.
-2018-12-03 22:35:33 | Console Logger initialized
-2018-12-03 22:35:33 | Console Logger initialized
-2018-12-03 22:35:33 | FiledValidation initialized.
-2018-12-03 22:35:33 | ConsoleUI Initialized
-2018-12-03 22:35:33 | ConsoleUI Launched
-2018-12-03 22:35:49 | Login Successful for [Carmine] as role [Player].
-2018-12-03 22:36:06 | ConsoleUI Shutdown
-2018-12-03 22:36:06 | FiledValidation shutdown.
-2018-12-03 22:36:06 | Console Logger shutdown.
-2018-12-03 22:36:06 | Console Logger shutdown.
-2018-12-03 22:36:12 | Console Logger initialized
-2018-12-03 22:36:12 | Console Logger initialized
-2018-12-03 22:36:12 | FiledValidation initialized.
-2018-12-03 22:36:12 | ConsoleUI Initialized
-2018-12-03 22:36:12 | ConsoleUI Launched
-2018-12-03 22:36:26 | Login Successful for [Carmine] as role [Player].
-2018-12-03 22:36:42 | ConsoleUI Shutdown
-2018-12-03 22:36:42 | FiledValidation shutdown.
-2018-12-03 22:36:42 | Console Logger shutdown.
-2018-12-03 22:36:42 | Console Logger shutdown.
-2018-12-03 22:37:52 | Console Logger initialized
-2018-12-03 22:37:52 | Console Logger initialized
-2018-12-03 22:37:52 | FiledValidation initialized.
-2018-12-03 22:37:52 | ConsoleUI Initialized
-2018-12-03 22:37:52 | ConsoleUI Launched
-2018-12-03 22:37:59 | Login Successful for [Carmine] as role [Player].
-2018-12-03 22:38:34 | Console Logger initialized
-2018-12-03 22:38:34 | Console Logger initialized
-2018-12-03 22:38:34 | FiledValidation initialized.
-2018-12-03 22:38:34 | ConsoleUI Initialized
-2018-12-03 22:38:34 | ConsoleUI Launched
-2018-12-03 22:38:44 | Login Successful for [Carmine] as role [Player].
-2018-12-03 22:39:26 | Console Logger initialized
-2018-12-03 22:39:26 | Console Logger initialized
-2018-12-03 22:39:26 | FiledValidation initialized.
-2018-12-03 22:39:26 | ConsoleUI Initialized
-2018-12-03 22:39:26 | ConsoleUI Launched
-2018-12-03 22:39:32 | Login Successful for [Carmine] as role [Player].
-2018-12-03 22:39:42 | ConsoleUI Shutdown
-2018-12-03 22:39:42 | FiledValidation shutdown.
-2018-12-03 22:39:42 | Console Logger shutdown.
-2018-12-03 22:39:42 | Console Logger shutdown.
-2018-12-03 22:40:42 | Console Logger initialized
-2018-12-03 22:40:42 | Console Logger initialized
-2018-12-03 22:40:42 | FiledValidation initialized.
-2018-12-03 22:40:42 | ConsoleUI Initialized
-2018-12-03 22:40:42 | ConsoleUI Launched
-2018-12-03 22:40:58 | Login Successful for [Carmine] as role [Player].
-2018-12-03 22:41:10 | ConsoleUI Shutdown
-2018-12-03 22:41:10 | FiledValidation shutdown.
-2018-12-03 22:41:10 | Console Logger shutdown.
-2018-12-03 22:41:10 | Console Logger shutdown.
-2018-12-03 22:41:40 | Console Logger initialized
-2018-12-03 22:41:40 | Console Logger initialized
-2018-12-03 22:41:40 | FiledValidation initialized.
-2018-12-03 22:41:40 | ConsoleUI Initialized
-2018-12-03 22:41:40 | ConsoleUI Launched
-2018-12-03 22:41:46 | Login Successful for [Carmine] as role [Player].
-2018-12-03 22:41:57 | ConsoleUI Shutdown
-2018-12-03 22:41:57 | FiledValidation shutdown.
-2018-12-03 22:41:57 | Console Logger shutdown.
-2018-12-03 22:41:57 | Console Logger shutdown.
-2018-12-03 22:42:10 | Console Logger initialized
-2018-12-03 22:42:10 | Console Logger initialized
-2018-12-03 22:42:10 | FiledValidation initialized.
-2018-12-03 22:42:10 | ConsoleUI Initialized
-2018-12-03 22:42:10 | ConsoleUI Launched
-2018-12-03 22:42:18 | Login Successful for [Carmine] as role [Player].
-2018-12-03 22:42:27 | ConsoleUI Shutdown
-2018-12-03 22:42:27 | FiledValidation shutdown.
-2018-12-03 22:42:27 | Console Logger shutdown.
-2018-12-03 22:42:27 | Console Logger shutdown.
-2018-12-03 22:43:30 | Console Logger initialized
-2018-12-03 22:43:30 | Console Logger initialized
-2018-12-03 22:43:30 | FiledValidation initialized.
-2018-12-03 22:43:30 | ConsoleUI Initialized
-2018-12-03 22:43:30 | ConsoleUI Launched
-2018-12-03 22:43:37 | Login Successful for [Carmine] as role [Admin].
-2018-12-03 22:43:53 | Console Logger initialized
-2018-12-03 22:43:53 | Console Logger initialized
-2018-12-03 22:43:53 | FiledValidation initialized.
-2018-12-03 22:43:53 | ConsoleUI Initialized
-2018-12-03 22:43:53 | ConsoleUI Launched
-2018-12-03 22:43:58 | Login Successful for [Carmine] as role [Player].
-2018-12-03 22:44:06 | ConsoleUI Shutdown
-2018-12-03 22:44:06 | FiledValidation shutdown.
-2018-12-03 22:44:06 | Console Logger shutdown.
-2018-12-03 22:44:06 | Console Logger shutdown.
-2018-12-03 22:44:08 | Console Logger initialized
-2018-12-03 22:44:08 | Console Logger initialized
-2018-12-03 22:44:08 | FiledValidation initialized.
-2018-12-03 22:44:08 | ConsoleUI Initialized
-2018-12-03 22:44:08 | ConsoleUI Launched
-2018-12-03 22:44:14 | Login Successful for [Carmine] as role [Admin].
-2018-12-03 22:45:01 | Console Logger initialized
-2018-12-03 22:45:01 | Console Logger initialized
-2018-12-03 22:45:01 | FiledValidation initialized.
-2018-12-03 22:45:01 | ConsoleUI Initialized
-2018-12-03 22:45:01 | ConsoleUI Launched
-2018-12-03 22:45:07 | Login Successful for [Carmine] as role [Player].
-2018-12-03 22:45:27 | ConsoleUI Shutdown
-2018-12-03 22:45:27 | FiledValidation shutdown.
-2018-12-03 22:45:27 | Console Logger shutdown.
-2018-12-03 22:45:27 | Console Logger shutdown.
-2018-12-03 22:45:30 | Console Logger initialized
-2018-12-03 22:45:30 | Console Logger initialized
-2018-12-03 22:45:30 | FiledValidation initialized.
-2018-12-03 22:45:30 | ConsoleUI Initialized
-2018-12-03 22:45:30 | ConsoleUI Launched
-2018-12-03 22:45:37 | Login Successful for [Carmine] as role [Admin].
-2018-12-03 22:48:45 | Console Logger initialized
-2018-12-03 22:48:45 | Console Logger initialized
-2018-12-03 22:48:45 | FiledValidation initialized.
-2018-12-03 22:48:45 | ConsoleUI Initialized
-2018-12-03 22:48:45 | ConsoleUI Launched
-2018-12-03 22:48:52 | Login Successful for [Carmine] as role [Player].
-2018-12-03 22:49:01 | ConsoleUI Shutdown
-2018-12-03 22:49:01 | FiledValidation shutdown.
-2018-12-03 22:49:01 | Console Logger shutdown.
-2018-12-03 22:49:01 | Console Logger shutdown.
-2018-12-03 22:49:20 | Console Logger initialized
-2018-12-03 22:49:20 | Console Logger initialized
-2018-12-03 22:49:20 | FiledValidation initialized.
-2018-12-03 22:49:20 | ConsoleUI Initialized
-2018-12-03 22:49:20 | ConsoleUI Launched
-2018-12-03 22:49:26 | Login Successful for [Carmine] as role [Player].
-2018-12-03 22:49:34 | ConsoleUI Shutdown
-2018-12-03 22:49:34 | FiledValidation shutdown.
-2018-12-03 22:49:34 | Console Logger shutdown.
-2018-12-03 22:49:34 | Console Logger shutdown.
-2018-12-03 22:49:55 | Console Logger initialized
-2018-12-03 22:49:55 | Console Logger initialized
-2018-12-03 22:49:55 | FiledValidation initialized.
-2018-12-03 22:49:55 | ConsoleUI Initialized
-2018-12-03 22:49:55 | ConsoleUI Launched
-2018-12-03 22:50:03 | Login Successful for [Carmine] as role [Player].
-2018-12-03 22:50:13 | ConsoleUI Shutdown
-2018-12-03 22:50:13 | FiledValidation shutdown.
-2018-12-03 22:50:13 | Console Logger shutdown.
-2018-12-03 22:50:13 | Console Logger shutdown.
-2018-12-03 22:50:15 | Console Logger initialized
-2018-12-03 22:50:15 | Console Logger initialized
-2018-12-03 22:50:15 | FiledValidation initialized.
-2018-12-03 22:50:15 | ConsoleUI Initialized
-2018-12-03 22:50:15 | ConsoleUI Launched
-2018-12-03 22:50:24 | Login Successful for [Carmine] as role [Player].
-2018-12-03 22:50:31 | ConsoleUI Shutdown
-2018-12-03 22:50:31 | FiledValidation shutdown.
-2018-12-03 22:50:31 | Console Logger shutdown.
-2018-12-03 22:50:31 | Console Logger shutdown.
-2018-12-03 22:50:34 | Console Logger initialized
-2018-12-03 22:50:34 | Console Logger initialized
-2018-12-03 22:50:34 | FiledValidation initialized.
-2018-12-03 22:50:34 | ConsoleUI Initialized
-2018-12-03 22:50:34 | ConsoleUI Launched
-2018-12-03 22:50:40 | Login Successful for [Carmine] as role [Admin].
-2018-12-03 22:50:58 | ConsoleUI Shutdown
-2018-12-03 22:50:58 | FiledValidation shutdown.
-2018-12-03 22:50:58 | Console Logger shutdown.
-2018-12-03 22:50:58 | Console Logger shutdown.
-2018-12-03 22:51:42 | Console Logger initialized
-2018-12-03 22:51:42 | Console Logger initialized
-2018-12-03 22:51:42 | FiledValidation initialized.
-2018-12-03 22:51:42 | ConsoleUI Initialized
-2018-12-03 22:51:42 | ConsoleUI Launched
-2018-12-03 22:51:49 | Login failure for "Carmine" as role "Admin"
-2018-12-03 22:51:57 | Login Successful for [Carmine] as role [Admin].
-2018-12-04 11:23:31 | Console Logger initialized
-2018-12-04 11:23:31 | Console Logger initialized
-2018-12-04 11:23:31 | FiledValidation initialized.
-2018-12-04 11:23:31 | ConsoleUI Initialized
-2018-12-04 11:23:31 | ConsoleUI Launched
-2018-12-04 11:23:43 | Login Successful for [Carmine] as role [Player].
-2018-12-04 11:25:22 | Console Logger initialized
-2018-12-04 11:25:22 | Console Logger initialized
-2018-12-04 11:25:22 | FiledValidation initialized.
-2018-12-04 11:25:22 | ConsoleUI Initialized
-2018-12-04 11:25:22 | ConsoleUI Launched
-2018-12-04 11:25:28 | Login Successful for [Carmine] as role [Player].
-2018-12-04 11:27:34 | ConsoleUI Shutdown
-2018-12-04 11:27:34 | FiledValidation shutdown.
-2018-12-04 11:27:34 | Console Logger shutdown.
-2018-12-04 11:27:34 | Console Logger shutdown.
-2018-12-04 11:28:25 | Console Logger initialized
-2018-12-04 11:28:25 | Console Logger initialized
-2018-12-04 11:28:25 | FiledValidation initialized.
-2018-12-04 11:28:25 | ConsoleUI Initialized
-2018-12-04 11:28:25 | ConsoleUI Launched
-2018-12-04 11:28:49 | Console Logger initialized
-2018-12-04 11:28:49 | Console Logger initialized
-2018-12-04 11:28:49 | FiledValidation initialized.
-2018-12-04 11:28:49 | ConsoleUI Initialized
-2018-12-04 11:28:49 | ConsoleUI Launched
-2018-12-04 11:29:01 | Login Successful for [Carmine] as role [Player].
-2018-12-04 11:29:29 | Console Logger initialized
-2018-12-04 11:29:29 | Console Logger initialized
-2018-12-04 11:29:29 | FiledValidation initialized.
-2018-12-04 11:29:29 | ConsoleUI Initialized
-2018-12-04 11:29:29 | ConsoleUI Launched
-2018-12-04 11:29:34 | Login Successful for [Carmine] as role [Player].
-2018-12-04 11:30:42 | ConsoleUI Shutdown
-2018-12-04 11:30:42 | FiledValidation shutdown.
-2018-12-04 11:30:42 | Console Logger shutdown.
-2018-12-04 11:30:42 | Console Logger shutdown.
-2018-12-04 11:34:02 | Console Logger initialized
-2018-12-04 11:34:02 | Console Logger initialized
-2018-12-04 11:34:02 | FiledValidation initialized.
-2018-12-04 11:34:02 | ConsoleUI Initialized
-2018-12-04 11:34:02 | ConsoleUI Launched
-2018-12-04 11:34:12 | Login Successful for [Carmine] as role [Player].
-2018-12-04 11:35:34 | ConsoleUI Shutdown
-2018-12-04 11:35:34 | FiledValidation shutdown.
-2018-12-04 11:35:34 | Console Logger shutdown.
-2018-12-04 11:35:34 | Console Logger shutdown.
-2018-12-04 11:36:30 | Console Logger initialized
-2018-12-04 11:36:30 | Console Logger initialized
-2018-12-04 11:36:30 | FiledValidation initialized.
-2018-12-04 11:36:30 | ConsoleUI Initialized
-2018-12-04 11:36:30 | ConsoleUI Launched
-2018-12-04 11:38:22 | Console Logger initialized
-2018-12-04 11:38:23 | Console Logger initialized
-2018-12-04 11:38:23 | FiledValidation initialized.
-2018-12-04 11:38:23 | ConsoleUI Initialized
-2018-12-04 11:38:23 | ConsoleUI Launched
-2018-12-04 11:38:29 | Login Successful for [Carmine] as role [Player].
-2018-12-04 11:40:16 | ConsoleUI Shutdown
-2018-12-04 11:40:16 | FiledValidation shutdown.
-2018-12-04 11:40:16 | Console Logger shutdown.
-2018-12-04 11:40:16 | Console Logger shutdown.
-2018-12-04 11:40:20 | Console Logger initialized
-2018-12-04 11:40:20 | Console Logger initialized
-2018-12-04 11:40:20 | FiledValidation initialized.
-2018-12-04 11:40:20 | ConsoleUI Initialized
-2018-12-04 11:40:20 | ConsoleUI Launched
-2018-12-04 11:40:29 | Login Successful for [Carmine] as role [Player].
-2018-12-04 11:40:37 | ConsoleUI Shutdown
-2018-12-04 11:40:37 | FiledValidation shutdown.
-2018-12-04 11:40:37 | Console Logger shutdown.
-2018-12-04 11:40:37 | Console Logger shutdown.
-2018-12-04 11:46:06 | Console Logger initialized
-2018-12-04 11:46:06 | Console Logger initialized
-2018-12-04 11:46:06 | FiledValidation initialized.
-2018-12-04 11:46:06 | ConsoleUI Initialized
-2018-12-04 11:46:06 | ConsoleUI Launched
-2018-12-04 11:46:12 | Login Successful for [Carmine] as role [Player].
-2018-12-04 11:46:20 | ConsoleUI Shutdown
-2018-12-04 11:46:20 | FiledValidation shutdown.
-2018-12-04 11:46:20 | Console Logger shutdown.
-2018-12-04 11:46:20 | Console Logger shutdown.
-2018-12-04 11:46:41 | Console Logger initialized
-2018-12-04 11:46:41 | Console Logger initialized
-2018-12-04 11:46:41 | FiledValidation initialized.
-2018-12-04 11:46:41 | ConsoleUI Initialized
-2018-12-04 11:46:41 | ConsoleUI Launched
-2018-12-04 11:46:47 | Login Successful for [Carmine] as role [Admin].
-2018-12-04 12:43:43 | Console Logger initialized
-2018-12-04 12:43:43 | Console Logger initialized
-2018-12-04 12:43:43 | FiledValidation initialized.
-2018-12-04 12:43:43 | ConsoleUI Initialized
-2018-12-04 12:43:43 | ConsoleUI Launched
-2018-12-04 12:43:52 | Login Successful for [Carmine] as role [Admin].
-2018-12-04 12:43:52 | Console Logger initialized
-2018-12-04 12:43:52 | PlayerSession Created.
-2018-12-04 12:44:16 | Console Logger shutdown.
-2018-12-04 12:44:31 | Console Logger initialized
-2018-12-04 12:44:31 | Console Logger initialized
-2018-12-04 12:44:31 | FiledValidation initialized.
-2018-12-04 12:44:31 | ConsoleUI Initialized
-2018-12-04 12:44:31 | ConsoleUI Launched
-2018-12-04 12:44:38 | Login Successful for [Carmine] as role [Admin].
-2018-12-04 12:44:38 | Console Logger initialized
-2018-12-04 12:44:38 | PlayerSession Created.
-2018-12-04 12:45:37 | Console Logger shutdown.
-2018-12-04 12:45:57 | Console Logger initialized
-2018-12-04 12:45:57 | Console Logger initialized
-2018-12-04 12:45:57 | FiledValidation initialized.
-2018-12-04 12:45:57 | ConsoleUI Initialized
-2018-12-04 12:45:57 | ConsoleUI Launched
-2018-12-04 12:46:10 | Console Logger initialized
-2018-12-04 12:46:10 | Console Logger initialized
-2018-12-04 12:46:10 | FiledValidation initialized.
-2018-12-04 12:46:10 | ConsoleUI Initialized
-2018-12-04 12:46:10 | ConsoleUI Launched
-2018-12-04 12:46:16 | Login Successful for [Carmine] as role [Admin].
-2018-12-04 12:46:16 | Console Logger initialized
-2018-12-04 12:46:16 | PlayerSession Created.
-2018-12-04 12:46:56 | Console Logger shutdown.
-2018-12-04 12:48:13 | Console Logger initialized
-2018-12-04 12:48:13 | Console Logger initialized
-2018-12-04 12:48:13 | FiledValidation initialized.
-2018-12-04 12:48:13 | ConsoleUI Initialized
-2018-12-04 12:48:13 | ConsoleUI Launched
-2018-12-04 12:48:19 | Login Successful for [Carmine] as role [Admin].
-2018-12-04 12:48:19 | Console Logger initialized
-2018-12-04 12:48:19 | PlayerSession Created.
-2018-12-04 12:58:14 | Console Logger initialized
-2018-12-04 12:58:14 | Console Logger initialized
-2018-12-04 12:58:14 | FiledValidation initialized.
-2018-12-04 12:58:14 | ConsoleUI Initialized
-2018-12-04 12:58:14 | ConsoleUI Launched
-2018-12-04 12:58:20 | Login Successful for [Carmine] as role [Admin].
-2018-12-04 12:58:20 | Console Logger initialized
-2018-12-04 12:58:20 | PlayerSession Created.
-2018-12-04 13:03:08 | Console Logger initialized
-2018-12-04 13:03:08 | Console Logger initialized
-2018-12-04 13:03:08 | FiledValidation initialized.
-2018-12-04 13:03:08 | ConsoleUI Initialized
-2018-12-04 13:03:09 | ConsoleUI Launched
-2018-12-04 13:03:18 | Login Successful for [Carmine] as role [Admin].
-2018-12-04 13:03:18 | Console Logger initialized
-2018-12-04 13:03:18 | PlayerSession Created.
-2018-12-04 13:03:41 | Console Logger shutdown.
-2018-12-04 13:03:55 | ConsoleUI Shutdown
-2018-12-04 13:03:55 | FiledValidation shutdown.
-2018-12-04 13:03:55 | Console Logger shutdown.
-2018-12-04 13:03:55 | Console Logger shutdown.
-2018-12-04 13:04:24 | Console Logger initialized
-2018-12-04 13:04:24 | Console Logger initialized
-2018-12-04 13:04:24 | FiledValidation initialized.
-2018-12-04 13:04:24 | ConsoleUI Initialized
-2018-12-04 13:04:24 | ConsoleUI Launched
-2018-12-04 13:04:28 | Login Successful for [Carmine] as role [Admin].
-2018-12-04 13:04:28 | Console Logger initialized
-2018-12-04 13:04:28 | PlayerSession Created.
-2018-12-04 13:06:45 | Console Logger initialized
-2018-12-04 13:06:45 | Console Logger initialized
-2018-12-04 13:06:45 | FiledValidation initialized.
-2018-12-04 13:06:45 | ConsoleUI Initialized
-2018-12-04 13:06:45 | ConsoleUI Launched
-2018-12-04 13:07:04 | Console Logger initialized
-2018-12-04 13:07:04 | Console Logger initialized
-2018-12-04 13:07:04 | FiledValidation initialized.
-2018-12-04 13:07:04 | ConsoleUI Initialized
-2018-12-04 13:07:04 | ConsoleUI Launched
-2018-12-04 13:07:14 | Login Successful for [Carmine] as role [Admin].
-2018-12-04 13:07:14 | Console Logger initialized
-2018-12-04 13:07:14 | PlayerSession Created.
-2018-12-04 13:09:57 | Console Logger initialized
-2018-12-04 13:09:57 | Console Logger initialized
-2018-12-04 13:09:57 | FiledValidation initialized.
-2018-12-04 13:09:57 | ConsoleUI Initialized
-2018-12-04 13:09:57 | ConsoleUI Launched
-2018-12-04 13:10:05 | Login Successful for [Carmine] as role [Admin].
-2018-12-04 13:10:05 | Console Logger initialized
-2018-12-04 13:10:05 | PlayerSession Created.
-2018-12-04 13:10:29 | Console Logger shutdown.
-2018-12-04 13:10:39 | Console Logger initialized
-2018-12-04 13:10:40 | Console Logger initialized
-2018-12-04 13:10:40 | FiledValidation initialized.
-2018-12-04 13:10:40 | ConsoleUI Initialized
-2018-12-04 13:10:40 | ConsoleUI Launched
-2018-12-04 13:10:44 | Login Successful for [Carmine] as role [Admin].
-2018-12-04 13:10:44 | Console Logger initialized
-2018-12-04 13:10:44 | PlayerSession Created.
-2018-12-04 13:13:10 | Console Logger initialized
-2018-12-04 13:13:10 | Console Logger initialized
-2018-12-04 13:13:10 | FiledValidation initialized.
-2018-12-04 13:13:10 | ConsoleUI Initialized
-2018-12-04 13:13:10 | ConsoleUI Launched
-2018-12-04 13:13:19 | Login failure for "Carmine" as role "Admin"
-2018-12-04 13:13:25 | Login Successful for [Carmine] as role [Admin].
-2018-12-04 13:13:25 | Console Logger initialized
-2018-12-04 13:13:25 | PlayerSession Created.
-2018-12-04 13:14:02 | Console Logger initialized
-2018-12-04 13:14:02 | Console Logger initialized
-2018-12-04 13:14:02 | FiledValidation initialized.
-2018-12-04 13:14:02 | ConsoleUI Initialized
-2018-12-04 13:14:02 | ConsoleUI Launched
-2018-12-04 13:14:12 | Login Successful for [Carmine] as role [Admin].
-2018-12-04 13:14:12 | Console Logger initialized
-2018-12-04 13:14:12 | PlayerSession Created.
-2018-12-04 13:16:05 | Console Logger shutdown.
-2018-12-04 13:16:11 | Console Logger initialized
-2018-12-04 13:16:11 | Console Logger initialized
-2018-12-04 13:16:11 | FiledValidation initialized.
-2018-12-04 13:16:11 | ConsoleUI Initialized
-2018-12-04 13:16:11 | ConsoleUI Launched
-2018-12-04 13:16:18 | Login Successful for [Carmine] as role [Admin].
-2018-12-04 13:16:18 | Console Logger initialized
-2018-12-04 13:16:18 | PlayerSession Created.
-2018-12-04 13:16:41 | Console Logger shutdown.
-2018-12-04 13:16:45 | Console Logger initialized
-2018-12-04 13:16:45 | Console Logger initialized
-2018-12-04 13:16:45 | FiledValidation initialized.
-2018-12-04 13:16:45 | ConsoleUI Initialized
-2018-12-04 13:16:45 | ConsoleUI Launched
-2018-12-04 13:16:51 | Login Successful for [Carmine] as role [Admin].
-2018-12-04 13:16:51 | Console Logger initialized
-2018-12-04 13:16:51 | PlayerSession Created.
-2018-12-04 13:23:13 | Console Logger initialized
-2018-12-04 13:23:13 | Console Logger initialized
-2018-12-04 13:23:13 | FiledValidation initialized.
-2018-12-04 13:23:13 | ConsoleUI Initialized
-2018-12-04 13:23:13 | ConsoleUI Launched
-2018-12-04 13:23:19 | Login Successful for [Carmine] as role [Admin].
-2018-12-04 13:23:19 | Console Logger initialized
-2018-12-04 13:23:19 | PlayerSession Created.
-2018-12-04 13:24:03 | Console Logger initialized
-2018-12-04 13:24:03 | Console Logger initialized
-2018-12-04 13:24:03 | FiledValidation initialized.
-2018-12-04 13:24:03 | ConsoleUI Initialized
-2018-12-04 13:24:03 | ConsoleUI Launched
-2018-12-04 13:24:09 | Login Successful for [Carmine] as role [Admin].
-2018-12-04 13:24:09 | Console Logger initialized
-2018-12-04 13:24:09 | PlayerSession Created.
-2018-12-04 13:24:35 | Console Logger initialized
-2018-12-04 13:24:35 | Console Logger initialized
-2018-12-04 13:24:35 | FiledValidation initialized.
-2018-12-04 13:24:35 | ConsoleUI Initialized
-2018-12-04 13:24:35 | ConsoleUI Launched
-2018-12-04 13:24:42 | Login Successful for [Carmine] as role [Admin].
-2018-12-04 13:24:42 | Console Logger initialized
-2018-12-04 13:24:42 | PlayerSession Created.
-2018-12-04 13:24:55 | Console Logger shutdown.
-2018-12-04 13:25:01 | ConsoleUI Shutdown
-2018-12-04 13:25:01 | FiledValidation shutdown.
-2018-12-04 13:25:01 | Console Logger shutdown.
-2018-12-04 13:25:01 | Console Logger shutdown.
-2018-12-04 13:28:05 | Console Logger initialized
-2018-12-04 13:28:05 | Console Logger initialized
-2018-12-04 13:28:05 | FiledValidation initialized.
-2018-12-04 13:28:05 | ConsoleUI Initialized
-2018-12-04 13:28:05 | ConsoleUI Launched
-2018-12-04 15:21:53 | Console Logger initialized
-2018-12-04 15:21:53 | Console Logger initialized
-2018-12-04 15:21:53 | FiledValidation initialized.
-2018-12-04 15:21:53 | ConsoleUI Initialized
-2018-12-04 15:21:53 | ConsoleUI Launched
-2018-12-04 15:21:58 | Login Successful for [Carmine] as role [Player].
-2018-12-04 15:21:58 | Console Logger initialized
-2018-12-04 15:21:58 | PlayerSession Created.
-2018-12-04 15:22:03 | Play Game Selected
-2018-12-04 17:21:58 | Console Logger initialized
-2018-12-04 17:21:58 | Console Logger initialized
-2018-12-04 17:21:58 | FiledValidation initialized.
-2018-12-04 17:21:58 | ConsoleUI Initialized
-2018-12-04 17:21:58 | ConsoleUI Launched
-2018-12-04 17:23:09 | Console Logger initialized
-2018-12-04 17:23:09 | Console Logger initialized
-2018-12-04 17:23:09 | FiledValidation initialized.
-2018-12-04 17:23:09 | ConsoleUI Initialized
-2018-12-04 17:23:09 | ConsoleUI Launched
-2018-12-04 18:19:42 | Console Logger initialized
-2018-12-04 18:19:42 | Console Logger initialized
-2018-12-04 18:19:42 | FiledValidation initialized.
-2018-12-04 18:19:42 | ConsoleUI Initialized
-2018-12-04 18:19:42 | ConsoleUI Launched
-2018-12-04 18:19:53 | Login failure for "Carmine" as role "Player"
-2018-12-04 18:19:53 | Login failure for "" as role "Player"
-2018-12-04 18:19:53 | Login failure for "" as role "Player"
-2018-12-04 18:19:53 | Login failure for "" as role "Player"
-2018-12-04 18:19:53 | Login failure for "" as role "Player"
-2018-12-04 18:19:53 | Login failure for "" as role "Player"
-2018-12-04 18:19:53 | Login failure for "" as role "Player"
-2018-12-04 18:19:53 | Login failure for "" as role "Player"
-2018-12-04 18:19:53 | Login failure for "" as role "Player"
-2018-12-04 18:19:53 | Login failure for "" as role "Player"
-2018-12-04 18:19:53 | Login failure for "" as role "Player"
-2018-12-04 18:19:53 | Login failure for "" as role "Player"
-2018-12-04 18:19:53 | Login failure for "" as role "Player"
-2018-12-04 18:19:53 | Login failure for "" as role "Player"
-2018-12-04 18:19:53 | Login failure for "" as role "Player"
-2018-12-04 18:19:53 | Login failure for "" as role "Player"
-2018-12-04 18:19:53 | Login failure for "" as role "Player"
-2018-12-04 18:19:53 | Login failure for "" as role "Player"
-2018-12-04 18:19:53 | Login failure for "" as role "Player"
-2018-12-04 18:19:53 | Login failure for "" as role "Player"
-2018-12-04 18:19:53 | Login failure for "" as role "Player"
-2018-12-04 18:19:53 | Login failure for "" as role "Player"
-2018-12-04 18:19:53 | Login failure for "" as role "Player"
-2018-12-04 18:19:53 | Login failure for "" as role "Player"
-2018-12-04 18:19:53 | Login failure for "" as role "Player"
-2018-12-04 18:19:53 | Login failure for "" as role "Player"
-2018-12-04 18:19:53 | Login failure for "" as role "Player"
-2018-12-04 18:19:53 | Login failure for "" as role "Player"
-2018-12-04 18:19:53 | Login failure for "" as role "Player"
-2018-12-04 18:19:53 | Login failure for "" as role "Player"
-2018-12-04 18:19:53 | Login failure for "" as role "Player"
-2018-12-04 18:19:53 | Login failure for "" as role "Player"
-2018-12-04 18:19:53 | Login failure for "" as role "Player"
-2018-12-04 18:19:53 | Login failure for "" as role "Player"
-2018-12-04 18:19:53 | Login failure for "" as role "Player"
-2018-12-04 18:19:53 | Login failure for "" as role "Player"
-2018-12-04 18:19:53 | Login failure for "" as role "Player"
-2018-12-04 18:19:53 | Login failure for "" as role "Player"
-2018-12-04 18:19:53 | Login failure for "" as role "Player"
-2018-12-04 18:19:53 | Login failure for "" as role "Player"
-2018-12-04 18:19:53 | Login failure for "" as role "Player"
-2018-12-04 18:19:53 | Login failure for "" as role "Player"
-2018-12-04 18:19:53 | Login failure for "" as role "Player"
-2018-12-04 18:19:53 | Login failure for "" as role "Player"
-2018-12-04 18:19:53 | Login failure for "" as role "Player"
-2018-12-04 18:19:53 | Login failure for "" as role "Player"
-2018-12-04 18:19:53 | Login failure for "" as role "Player"
-2018-12-04 18:19:53 | Login failure for "" as role "Player"
-2018-12-04 18:19:53 | Login failure for "" as role "Player"
-2018-12-04 18:19:53 | Login failure for "" as role "Player"
-2018-12-04 18:19:53 | Login failure for "" as role "Player"
-2018-12-04 18:19:53 | Login failure for "" as role "Player"
-2018-12-04 18:19:53 | Login failure for "" as role "Player"
-2018-12-04 18:19:53 | Login failure for "" as role "Player"
-2018-12-04 18:19:53 | Login failure for "" as role "Player"
-2018-12-04 18:19:53 | Login failure for "" as role "Player"
-2018-12-04 18:19:53 | Login failure for "" as role "Player"
-2018-12-04 18:19:53 | Login failure for "" as role "Player"
-2018-12-04 18:19:53 | Login failure for "" as role "Player"
-2018-12-04 18:19:53 | Login failure for "" as role "Player"
-2018-12-04 18:19:53 | Login failure for "" as role "Player"
-2018-12-04 18:19:53 | Login failure for "" as role "Player"
-2018-12-04 18:19:53 | Login failure for "" as role "Player"
-2018-12-04 18:19:53 | Login failure for "" as role "Player"
-2018-12-04 18:19:53 | Login failure for "" as role "Player"
-2018-12-04 18:19:53 | Login failure for "" as role "Player"
-2018-12-04 18:19:53 | Login failure for "" as role "Player"
-2018-12-04 18:19:53 | Login failure for "" as role "Player"
-2018-12-04 18:19:53 | Login failure for "" as role "Player"
-2018-12-04 18:19:53 | Login failure for "" as role "Player"
-2018-12-04 18:19:53 | Login failure for "" as role "Player"
-2018-12-04 18:19:53 | Login failure for "" as role "Player"
-2018-12-04 18:19:53 | Login failure for "" as role "Player"
-2018-12-04 18:19:53 | Login failure for "" as role "Player"
-2018-12-04 18:19:53 | Login failure for "" as role "Player"
-2018-12-04 18:19:53 | Login failure for "" as role "Player"
-2018-12-04 18:19:53 | Login failure for "" as role "Player"
-2018-12-04 18:19:53 | Login failure for "" as role "Player"
-2018-12-04 18:19:53 | Login failure for "" as role "Player"
-2018-12-04 18:19:53 | Login failure for "" as role "Player"
-2018-12-04 18:19:53 | Login failure for "" as role "Player"
-2018-12-04 18:19:53 | Login failure for "" as role "Player"
-2018-12-04 18:19:53 | Login failure for "" as role "Player"
-2018-12-04 18:19:53 | Login failure for "" as role "Player"
-2018-12-04 18:19:53 | Login failure for "" as role "Player"
-2018-12-04 18:19:53 | Login failure for "" as role "Player"
-2018-12-04 18:19:53 | Login failure for "" as role "Player"
-2018-12-04 18:19:53 | Login failure for "" as role "Player"
-2018-12-04 18:19:53 | Login failure for "" as role "Player"
-2018-12-04 18:19:53 | Login failure for "" as role "Player"
-2018-12-04 18:19:53 | Login failure for "" as role "Player"
-2018-12-04 18:19:53 | Login failure for "" as role "Player"
-2018-12-04 18:19:53 | Login failure for "" as role "Player"
-2018-12-04 18:19:53 | Login failure for "" as role "Player"
-2018-12-04 18:19:53 | Login failure for "" as role "Player"
-2018-12-04 18:19:53 | Login failure for "" as role "Player"
-2018-12-04 18:19:53 | Login failure for "" as role "Player"
-2018-12-04 18:19:53 | Login failure for "" as role "Player"
-2018-12-04 18:19:53 | Login failure for "" as role "Player"
-2018-12-04 18:19:53 | Login failure for "" as role "Player"
-2018-12-04 18:19:53 | Login failure for "" as role "Player"
-2018-12-04 18:19:53 | Login failure for "" as role "Player"
-2018-12-04 18:19:53 | Login failure for "" as role "Player"
-2018-12-04 18:19:53 | Login failure for "" as role "Player"
-2018-12-04 18:19:53 | Login failure for "" as role "Player"
-2018-12-04 18:19:53 | Login failure for "" as role "Player"
-2018-12-04 18:19:53 | Login failure for "" as role "Player"
-2018-12-04 18:19:53 | Login failure for "" as role "Player"
-2018-12-04 18:19:53 | Login failure for "" as role "Player"
-2018-12-04 18:19:53 | Login failure for "" as role "Player"
-2018-12-04 18:19:53 | Login failure for "" as role "Player"
-2018-12-04 18:19:53 | Login failure for "" as role "Player"
-2018-12-04 18:19:53 | Login failure for "" as role "Player"
-2018-12-04 18:19:53 | Login failure for "" as role "Player"
-2018-12-04 18:19:53 | Login failure for "" as role "Player"
-2018-12-04 18:19:53 | Login failure for "" as role "Player"
-2018-12-04 18:19:53 | Login failure for "" as role "Player"
-2018-12-04 18:19:53 | Login failure for "" as role "Player"
-2018-12-04 18:19:53 | Login failure for "" as role "Player"
-2018-12-04 18:19:53 | Login failure for "" as role "Player"
-2018-12-04 18:19:53 | Login failure for "" as role "Player"
-2018-12-04 18:19:53 | Login failure for "" as role "Player"
-2018-12-04 18:19:53 | Login failure for "" as role "Player"
-2018-12-04 18:19:53 | Login failure for "" as role "Player"
-2018-12-04 18:19:53 | Login failure for "" as role "Player"
-2018-12-04 18:19:53 | Login failure for "" as role "Player"
-2018-12-04 18:19:53 | Login failure for "" as role "Player"
-2018-12-04 18:19:53 | Login failure for "" as role "Player"
-2018-12-04 18:19:53 | Login failure for "" as role "Player"
-2018-12-04 18:19:53 | Login failure for "" as role "Player"
-2018-12-04 18:19:53 | Login failure for "" as role "Player"
-2018-12-04 18:19:53 | Login failure for "" as role "Player"
-2018-12-04 18:19:53 | Login failure for "" as role "Player"
-2018-12-04 18:19:53 | Login failure for "" as role "Player"
-2018-12-04 18:19:54 | Login failure for "" as role "Player"
-2018-12-04 18:19:54 | Login failure for "" as role "Player"
-2018-12-04 18:19:54 | Login failure for "" as role "Player"
-2018-12-04 18:19:54 | Login failure for "" as role "Player"
-2018-12-04 18:19:54 | Login failure for "" as role "Player"
-2018-12-04 18:19:54 | Login failure for "" as role "Player"
-2018-12-04 18:19:54 | Login failure for "" as role "Player"
-2018-12-04 18:19:54 | Login failure for "" as role "Player"
-2018-12-04 18:19:54 | Login failure for "" as role "Player"
-2018-12-04 18:19:54 | Login failure for "" as role "Player"
-2018-12-04 18:19:54 | Login failure for "" as role "Player"
-2018-12-04 18:19:54 | Login failure for "" as role "Player"
-2018-12-04 18:19:54 | Login failure for "" as role "Player"
-2018-12-04 18:19:54 | Login failure for "" as role "Player"
-2018-12-04 18:19:54 | Login failure for "" as role "Player"
-2018-12-04 18:19:54 | Login failure for "" as role "Player"
-2018-12-04 18:19:54 | Login failure for "" as role "Player"
-2018-12-04 18:19:54 | Login failure for "" as role "Player"
-2018-12-04 18:19:54 | Login failure for "" as role "Player"
-2018-12-04 18:19:54 | Login failure for "" as role "Player"
-2018-12-04 18:19:54 | Login failure for "" as role "Player"
-2018-12-04 18:19:54 | Login failure for "" as role "Player"
-2018-12-04 18:19:54 | Login failure for "" as role "Player"
-2018-12-04 18:19:54 | Login failure for "" as role "Player"
-2018-12-04 18:19:54 | Login failure for "" as role "Player"
-2018-12-04 18:19:54 | Login failure for "" as role "Player"
-2018-12-04 18:19:54 | Login failure for "" as role "Player"
-2018-12-04 18:19:54 | Login failure for "" as role "Player"
-2018-12-04 18:19:54 | Login failure for "" as role "Player"
-2018-12-04 18:19:54 | Login failure for "" as role "Player"
-2018-12-04 18:19:54 | Login failure for "" as role "Player"
-2018-12-04 18:19:54 | Login failure for "" as role "Player"
-2018-12-04 18:19:54 | Login failure for "" as role "Player"
-2018-12-04 18:19:54 | Login failure for "" as role "Player"
-2018-12-04 18:19:54 | Login failure for "" as role "Player"
-2018-12-04 18:19:54 | Login failure for "" as role "Player"
-2018-12-04 18:19:54 | Login failure for "" as role "Player"
-2018-12-04 18:19:54 | Login failure for "" as role "Player"
-2018-12-04 18:19:54 | Login failure for "" as role "Player"
-2018-12-04 18:19:54 | Login failure for "" as role "Player"
-2018-12-04 18:19:54 | Login failure for "" as role "Player"
-2018-12-04 18:19:54 | Login failure for "" as role "Player"
-2018-12-04 18:19:54 | Login failure for "" as role "Player"
-2018-12-04 18:19:54 | Login failure for "" as role "Player"
-2018-12-04 18:19:54 | Login failure for "" as role "Player"
-2018-12-04 18:19:54 | Login failure for "" as role "Player"
-2018-12-04 18:19:54 | Login failure for "" as role "Player"
-2018-12-04 18:19:54 | Login failure for "" as role "Player"
-2018-12-04 18:19:54 | Login failure for "" as role "Player"
-2018-12-04 18:19:54 | Login failure for "" as role "Player"
-2018-12-04 18:19:54 | Login failure for "" as role "Player"
-2018-12-04 18:19:54 | Login failure for "" as role "Player"
-2018-12-04 18:19:54 | Login failure for "" as role "Player"
-2018-12-04 18:19:54 | Login failure for "" as role "Player"
-2018-12-04 18:19:54 | Login failure for "" as role "Player"
-2018-12-04 18:19:54 | Login failure for "" as role "Player"
-2018-12-04 18:19:54 | Login failure for "" as role "Player"
-2018-12-04 18:19:54 | Login failure for "" as role "Player"
-2018-12-04 18:19:54 | Login failure for "" as role "Player"
-2018-12-04 18:19:54 | Login failure for "" as role "Player"
-2018-12-04 18:19:54 | Login failure for "" as role "Player"
-2018-12-04 18:19:54 | Login failure for "" as role "Player"
-2018-12-04 18:19:54 | Login failure for "" as role "Player"
-2018-12-04 18:19:54 | Login failure for "" as role "Player"
-2018-12-04 18:19:54 | Login failure for "" as role "Player"
-2018-12-04 18:19:54 | Login failure for "" as role "Player"
-2018-12-04 18:19:54 | Login failure for "" as role "Player"
-2018-12-04 18:19:54 | Login failure for "" as role "Player"
-2018-12-04 18:19:54 | Login failure for "" as role "Player"
-2018-12-04 18:19:54 | Login failure for "" as role "Player"
-2018-12-04 18:19:54 | Login failure for "" as role "Player"
-2018-12-04 18:19:54 | Login failure for "" as role "Player"
-2018-12-04 18:19:54 | Login failure for "" as role "Player"
-2018-12-04 18:19:54 | Login failure for "" as role "Player"
-2018-12-04 18:19:54 | Login failure for "" as role "Player"
-2018-12-04 18:19:54 | Login failure for "" as role "Player"
-2018-12-04 18:19:54 | Login failure for "" as role "Player"
-2018-12-04 18:19:54 | Login failure for "" as role "Player"
-2018-12-04 18:19:54 | Login failure for "" as role "Player"
-2018-12-04 18:19:54 | Login failure for "" as role "Player"
-2018-12-04 18:19:54 | Login failure for "" as role "Player"
-2018-12-04 18:19:54 | Login failure for "" as role "Player"
-2018-12-04 18:19:54 | Login failure for "" as role "Player"
-2018-12-04 18:19:54 | Login failure for "" as role "Player"
-2018-12-04 18:19:54 | Login failure for "" as role "Player"
-2018-12-04 18:19:54 | Login failure for "" as role "Player"
-2018-12-04 18:19:54 | Login failure for "" as role "Player"
-2018-12-04 18:19:54 | Login failure for "" as role "Player"
-2018-12-04 18:19:54 | Login failure for "" as role "Player"
-2018-12-04 18:19:54 | Login failure for "" as role "Player"
-2018-12-04 18:19:54 | Login failure for "" as role "Player"
-2018-12-04 18:19:54 | Login failure for "" as role "Player"
-2018-12-04 18:19:54 | Login failure for "" as role "Player"
-2018-12-04 18:19:54 | Login failure for "" as role "Player"
-2018-12-04 18:19:54 | Login failure for "" as role "Player"
-2018-12-04 18:19:54 | Login failure for "" as role "Player"
-2018-12-04 18:19:54 | Login failure for "" as role "Player"
-2018-12-04 18:19:54 | Login failure for "" as role "Player"
-2018-12-04 18:19:54 | Login failure for "" as role "Player"
-2018-12-04 18:19:54 | Login failure for "" as role "Player"
-2018-12-04 18:19:54 | Login failure for "" as role "Player"
-2018-12-04 18:19:54 | Login failure for "" as role "Player"
-2018-12-04 18:19:54 | Login failure for "" as role "Player"
-2018-12-04 18:19:54 | Login failure for "" as role "Player"
-2018-12-04 18:19:54 | Login failure for "" as role "Player"
-2018-12-04 18:19:54 | Login failure for "" as role "Player"
-2018-12-04 18:19:54 | Login failure for "" as role "Player"
-2018-12-04 18:19:54 | Login failure for "" as role "Player"
-2018-12-04 18:19:54 | Login failure for "" as role "Player"
-2018-12-04 18:19:54 | Login failure for "" as role "Player"
-2018-12-04 18:19:54 | Login failure for "" as role "Player"
-2018-12-04 18:19:54 | Login failure for "" as role "Player"
-2018-12-04 18:19:54 | Login failure for "" as role "Player"
-2018-12-04 18:19:54 | Login failure for "" as role "Player"
-2018-12-04 18:19:54 | Login failure for "" as role "Player"
-2018-12-04 18:19:54 | Login failure for "" as role "Player"
-2018-12-04 18:19:54 | Login failure for "" as role "Player"
-2018-12-04 18:19:54 | Login failure for "" as role "Player"
-2018-12-04 18:19:54 | Login failure for "" as role "Player"
-2018-12-04 18:19:54 | Login failure for "" as role "Player"
-2018-12-04 18:19:54 | Login failure for "" as role "Player"
-2018-12-04 18:19:54 | Login failure for "" as role "Player"
-2018-12-04 18:19:54 | Login failure for "" as role "Player"
-2018-12-04 18:19:54 | Login failure for "" as role "Player"
-2018-12-04 18:19:54 | Login failure for "" as role "Player"
-2018-12-04 18:19:54 | Login failure for "" as role "Player"
-2018-12-04 18:19:54 | Login failure for "" as role "Player"
-2018-12-04 18:19:54 | Login failure for "" as role "Player"
-2018-12-04 18:19:54 | Login failure for "" as role "Player"
-2018-12-04 18:19:54 | Login failure for "" as role "Player"
-2018-12-04 18:19:54 | Login failure for "" as role "Player"
-2018-12-04 18:19:54 | Login failure for "" as role "Player"
-2018-12-04 18:19:54 | Login failure for "" as role "Player"
-2018-12-04 18:19:54 | Login failure for "" as role "Player"
-2018-12-04 18:19:54 | Login failure for "" as role "Player"
-2018-12-04 18:19:54 | Login failure for "" as role "Player"
-2018-12-04 18:19:54 | Login failure for "" as role "Player"
-2018-12-04 18:19:54 | Login failure for "" as role "Player"
-2018-12-04 18:19:54 | Login failure for "" as role "Player"
-2018-12-04 18:19:54 | Login failure for "" as role "Player"
-2018-12-04 18:19:55 | Login failure for "" as role "Player"
-2018-12-04 18:19:55 | Login failure for "" as role "Player"
-2018-12-04 18:19:55 | Login failure for "" as role "Player"
-2018-12-04 18:19:55 | Login failure for "" as role "Player"
-2018-12-04 18:19:55 | Login failure for "" as role "Player"
-2018-12-04 18:19:55 | Login failure for "" as role "Player"
-2018-12-04 18:19:55 | Login failure for "" as role "Player"
-2018-12-04 18:19:55 | Login failure for "" as role "Player"
-2018-12-04 18:19:55 | Login failure for "" as role "Player"
-2018-12-04 18:19:55 | Login failure for "" as role "Player"
-2018-12-04 18:19:55 | Login failure for "" as role "Player"
-2018-12-04 18:19:55 | Login failure for "" as role "Player"
-2018-12-04 18:19:55 | Login failure for "" as role "Player"
-2018-12-04 18:19:55 | Login failure for "" as role "Player"
-2018-12-04 18:19:55 | Login failure for "" as role "Player"
-2018-12-04 18:19:55 | Login failure for "" as role "Player"
-2018-12-04 18:19:55 | Login failure for "" as role "Player"
-2018-12-04 18:19:55 | Login failure for "" as role "Player"
-2018-12-04 18:19:55 | Login failure for "" as role "Player"
-2018-12-04 18:19:55 | Login failure for "" as role "Player"
-2018-12-04 18:19:55 | Login failure for "" as role "Player"
-2018-12-04 18:19:55 | Login failure for "" as role "Player"
-2018-12-04 18:19:55 | Login failure for "" as role "Player"
-2018-12-04 18:19:55 | Login failure for "" as role "Player"
-2018-12-04 18:19:55 | Login failure for "" as role "Player"
-2018-12-04 18:19:55 | Login failure for "" as role "Player"
-2018-12-04 18:19:55 | Login failure for "" as role "Player"
-2018-12-04 18:19:55 | Login failure for "" as role "Player"
-2018-12-04 18:19:55 | Login failure for "" as role "Player"
-2018-12-04 18:19:55 | Login failure for "" as role "Player"
-2018-12-04 18:19:55 | Login failure for "" as role "Player"
-2018-12-04 18:19:55 | Login failure for "" as role "Player"
-2018-12-04 18:19:55 | Login failure for "" as role "Player"
-2018-12-04 18:19:55 | Login failure for "" as role "Player"
-2018-12-04 18:19:55 | Login failure for "" as role "Player"
-2018-12-04 18:19:55 | Login failure for "" as role "Player"
-2018-12-04 18:19:55 | Login failure for "" as role "Player"
-2018-12-04 18:19:55 | Login failure for "" as role "Player"
-2018-12-04 18:19:55 | Login failure for "" as role "Player"
-2018-12-04 18:19:55 | Login failure for "" as role "Player"
-2018-12-04 18:19:55 | Login failure for "" as role "Player"
-2018-12-04 18:19:55 | Login failure for "" as role "Player"
-2018-12-04 18:19:55 | Login failure for "" as role "Player"
-2018-12-04 18:19:55 | Login failure for "" as role "Player"
-2018-12-04 18:19:55 | Login failure for "" as role "Player"
-2018-12-04 18:19:55 | Login failure for "" as role "Player"
-2018-12-04 18:19:55 | Login failure for "" as role "Player"
-2018-12-04 18:19:55 | Login failure for "" as role "Player"
-2018-12-04 18:19:55 | Login failure for "" as role "Player"
-2018-12-04 18:19:55 | Login failure for "" as role "Player"
-2018-12-04 18:19:55 | Login failure for "" as role "Player"
-2018-12-04 18:19:55 | Login failure for "" as role "Player"
-2018-12-04 18:19:55 | Login failure for "" as role "Player"
-2018-12-04 18:19:55 | Login failure for "" as role "Player"
-2018-12-04 18:19:55 | Login failure for "" as role "Player"
-2018-12-04 18:19:55 | Login failure for "" as role "Player"
-2018-12-04 18:19:55 | Login failure for "" as role "Player"
-2018-12-04 18:19:55 | Login failure for "" as role "Player"
-2018-12-04 18:19:55 | Login failure for "" as role "Player"
-2018-12-04 18:19:55 | Login failure for "" as role "Player"
-2018-12-04 18:19:55 | Login failure for "" as role "Player"
-2018-12-04 18:19:55 | Login failure for "" as role "Player"
-2018-12-04 18:19:55 | Login failure for "" as role "Player"
-2018-12-04 18:19:55 | Login failure for "" as role "Player"
-2018-12-04 18:19:55 | Login failure for "" as role "Player"
-2018-12-04 18:19:55 | Login failure for "" as role "Player"
-2018-12-04 18:19:55 | Login failure for "" as role "Player"
-2018-12-04 18:19:55 | Login failure for "" as role "Player"
-2018-12-04 18:19:55 | Login failure for "" as role "Player"
-2018-12-04 18:19:55 | Login failure for "" as role "Player"
-2018-12-04 18:19:55 | Login failure for "" as role "Player"
-2018-12-04 18:19:55 | Login failure for "" as role "Player"
-2018-12-04 18:19:55 | Login failure for "" as role "Player"
-2018-12-04 18:19:55 | Login failure for "" as role "Player"
-2018-12-04 18:19:55 | Login failure for "" as role "Player"
-2018-12-04 18:19:55 | Login failure for "" as role "Player"
-2018-12-04 18:19:55 | Login failure for "" as role "Player"
-2018-12-04 18:19:55 | Login failure for "" as role "Player"
-2018-12-04 18:19:55 | Login failure for "" as role "Player"
-2018-12-04 18:19:55 | Login failure for "" as role "Player"
-2018-12-04 18:19:55 | Login failure for "" as role "Player"
-2018-12-04 18:19:55 | Login failure for "" as role "Player"
-2018-12-04 18:19:55 | Login failure for "" as role "Player"
-2018-12-04 18:19:55 | Login failure for "" as role "Player"
-2018-12-04 18:19:55 | Login failure for "" as role "Player"
-2018-12-04 18:19:55 | Login failure for "" as role "Player"
-2018-12-04 18:19:55 | Login failure for "" as role "Player"
-2018-12-04 18:19:55 | Login failure for "" as role "Player"
-2018-12-04 18:19:55 | Login failure for "" as role "Player"
-2018-12-04 18:19:55 | Login failure for "" as role "Player"
-2018-12-04 18:19:55 | Login failure for "" as role "Player"
-2018-12-04 18:19:55 | Login failure for "" as role "Player"
-2018-12-04 18:19:55 | Login failure for "" as role "Player"
-2018-12-04 18:19:55 | Login failure for "" as role "Player"
-2018-12-04 18:19:55 | Login failure for "" as role "Player"
-2018-12-04 18:19:55 | Login failure for "" as role "Player"
-2018-12-04 18:19:55 | Login failure for "" as role "Player"
-2018-12-04 18:19:55 | Login failure for "" as role "Player"
-2018-12-04 18:19:55 | Login failure for "" as role "Player"
-2018-12-04 18:19:55 | Login failure for "" as role "Player"
-2018-12-04 18:19:55 | Login failure for "" as role "Player"
-2018-12-04 18:19:55 | Login failure for "" as role "Player"
-2018-12-04 18:19:55 | Login failure for "" as role "Player"
-2018-12-04 18:19:55 | Login failure for "" as role "Player"
-2018-12-04 18:19:55 | Login failure for "" as role "Player"
-2018-12-04 18:19:55 | Login failure for "" as role "Player"
-2018-12-04 18:19:55 | Login failure for "" as role "Player"
-2018-12-04 18:19:55 | Login failure for "" as role "Player"
-2018-12-04 18:19:55 | Login failure for "" as role "Player"
-2018-12-04 18:19:55 | Login failure for "" as role "Player"
-2018-12-04 18:19:55 | Login failure for "" as role "Player"
-2018-12-04 18:19:55 | Login failure for "" as role "Player"
-2018-12-04 18:19:55 | Login failure for "" as role "Player"
-2018-12-04 18:19:55 | Login failure for "" as role "Player"
-2018-12-04 18:19:55 | Login failure for "" as role "Player"
-2018-12-04 18:19:55 | Login failure for "" as role "Player"
-2018-12-04 18:19:55 | Login failure for "" as role "Player"
-2018-12-04 18:19:55 | Login failure for "" as role "Player"
-2018-12-04 18:19:55 | Login failure for "" as role "Player"
-2018-12-04 18:19:55 | Login failure for "" as role "Player"
-2018-12-04 18:19:55 | Login failure for "" as role "Player"
-2018-12-04 18:19:55 | Login failure for "" as role "Player"
-2018-12-04 18:19:55 | Login failure for "" as role "Player"
-2018-12-04 18:19:55 | Login failure for "" as role "Player"
-2018-12-04 18:19:55 | Login failure for "" as role "Player"
-2018-12-04 18:19:55 | Login failure for "" as role "Player"
-2018-12-04 18:19:55 | Login failure for "" as role "Player"
-2018-12-04 18:19:55 | Login failure for "" as role "Player"
-2018-12-04 18:19:55 | Login failure for "" as role "Player"
-2018-12-04 18:19:55 | Login failure for "" as role "Player"
-2018-12-04 18:19:55 | Login failure for "" as role "Player"
-2018-12-04 18:19:55 | Login failure for "" as role "Player"
-2018-12-04 18:19:55 | Login failure for "" as role "Player"
-2018-12-04 18:19:55 | Login failure for "" as role "Player"
-2018-12-04 18:19:55 | Login failure for "" as role "Player"
-2018-12-04 18:19:55 | Login failure for "" as role "Player"
-2018-12-04 18:19:55 | Login failure for "" as role "Player"
-2018-12-04 18:19:55 | Login failure for "" as role "Player"
-2018-12-04 18:19:55 | Login failure for "" as role "Player"
-2018-12-04 18:19:56 | Login failure for "" as role "Player"
-2018-12-04 18:19:56 | Login failure for "" as role "Player"
-2018-12-04 18:19:56 | Login failure for "" as role "Player"
-2018-12-04 18:19:56 | Login failure for "" as role "Player"
-2018-12-04 18:19:56 | Login failure for "" as role "Player"
-2018-12-04 18:19:56 | Login failure for "" as role "Player"
-2018-12-04 18:19:56 | Login failure for "" as role "Player"
-2018-12-04 18:19:56 | Login failure for "" as role "Player"
-2018-12-04 18:19:56 | Login failure for "" as role "Player"
-2018-12-04 18:19:56 | Login failure for "" as role "Player"
-2018-12-04 18:19:56 | Login failure for "" as role "Player"
-2018-12-04 18:19:56 | Login failure for "" as role "Player"
-2018-12-04 18:19:56 | Login failure for "" as role "Player"
-2018-12-04 18:19:56 | Login failure for "" as role "Player"
-2018-12-04 18:19:56 | Login failure for "" as role "Player"
-2018-12-04 18:19:56 | Login failure for "" as role "Player"
-2018-12-04 18:19:56 | Login failure for "" as role "Player"
-2018-12-04 18:19:56 | Login failure for "" as role "Player"
-2018-12-04 18:19:56 | Login failure for "" as role "Player"
-2018-12-04 18:19:56 | Login failure for "" as role "Player"
-2018-12-04 18:19:56 | Login failure for "" as role "Player"
-2018-12-04 18:19:56 | Login failure for "" as role "Player"
-2018-12-04 18:19:56 | Login failure for "" as role "Player"
-2018-12-04 18:19:56 | Login failure for "" as role "Player"
-2018-12-04 18:19:56 | Login failure for "" as role "Player"
-2018-12-04 18:19:56 | Login failure for "" as role "Player"
-2018-12-04 18:19:56 | Login failure for "" as role "Player"
-2018-12-04 18:19:56 | Login failure for "" as role "Player"
-2018-12-04 18:19:56 | Login failure for "" as role "Player"
-2018-12-04 18:19:56 | Login failure for "" as role "Player"
-2018-12-04 18:19:56 | Login failure for "" as role "Player"
-2018-12-04 18:19:56 | Login failure for "" as role "Player"
-2018-12-04 18:19:56 | Login failure for "" as role "Player"
-2018-12-04 18:19:56 | Login failure for "" as role "Player"
-2018-12-04 18:19:56 | Login failure for "" as role "Player"
-2018-12-04 18:19:56 | Login failure for "" as role "Player"
-2018-12-04 18:19:56 | Login failure for "" as role "Player"
-2018-12-04 18:19:56 | Login failure for "" as role "Player"
-2018-12-04 18:19:56 | Login failure for "" as role "Player"
-2018-12-04 18:19:56 | Login failure for "" as role "Player"
-2018-12-04 18:19:56 | Login failure for "" as role "Player"
-2018-12-04 18:19:56 | Login failure for "" as role "Player"
-2018-12-04 18:19:56 | Login failure for "" as role "Player"
-2018-12-04 18:19:56 | Login failure for "" as role "Player"
-2018-12-04 18:19:56 | Login failure for "" as role "Player"
-2018-12-04 18:19:56 | Login failure for "" as role "Player"
-2018-12-04 18:19:56 | Login failure for "" as role "Player"
-2018-12-04 18:19:56 | Login failure for "" as role "Player"
-2018-12-04 18:19:56 | Login failure for "" as role "Player"
-2018-12-04 18:19:56 | Login failure for "" as role "Player"
-2018-12-04 18:19:56 | Login failure for "" as role "Player"
-2018-12-04 18:19:56 | Login failure for "" as role "Player"
-2018-12-04 18:19:56 | Login failure for "" as role "Player"
-2018-12-04 18:19:56 | Login failure for "" as role "Player"
-2018-12-04 18:19:56 | Login failure for "" as role "Player"
-2018-12-04 18:19:56 | Login failure for "" as role "Player"
-2018-12-04 18:19:56 | Login failure for "" as role "Player"
-2018-12-04 18:19:56 | Login failure for "" as role "Player"
-2018-12-04 18:19:56 | Login failure for "" as role "Player"
-2018-12-04 18:19:56 | Login failure for "" as role "Player"
-2018-12-04 18:19:56 | Login failure for "" as role "Player"
-2018-12-04 18:19:56 | Login failure for "" as role "Player"
-2018-12-04 18:19:56 | Login failure for "" as role "Player"
-2018-12-04 18:19:56 | Login failure for "" as role "Player"
-2018-12-04 18:19:56 | Login failure for "" as role "Player"
-2018-12-04 18:19:56 | Login failure for "" as role "Player"
-2018-12-04 18:19:56 | Login failure for "" as role "Player"
-2018-12-04 18:19:56 | Login failure for "" as role "Player"
-2018-12-04 18:19:56 | Login failure for "" as role "Player"
-2018-12-04 18:19:56 | Login failure for "" as role "Player"
-2018-12-04 18:19:56 | Login failure for "" as role "Player"
-2018-12-04 18:19:56 | Login failure for "" as role "Player"
-2018-12-04 18:19:56 | Login failure for "" as role "Player"
-2018-12-04 18:19:56 | Login failure for "" as role "Player"
-2018-12-04 18:19:56 | Login failure for "" as role "Player"
-2018-12-04 18:19:56 | Login failure for "" as role "Player"
-2018-12-04 18:19:56 | Login failure for "" as role "Player"
-2018-12-04 18:19:56 | Login failure for "" as role "Player"
-2018-12-04 18:19:56 | Login failure for "" as role "Player"
-2018-12-04 18:19:56 | Login failure for "" as role "Player"
-2018-12-04 18:19:56 | Login failure for "" as role "Player"
-2018-12-04 18:19:56 | Login failure for "" as role "Player"
-2018-12-04 18:19:56 | Login failure for "" as role "Player"
-2018-12-04 18:19:56 | Login failure for "" as role "Player"
-2018-12-04 18:19:56 | Login failure for "" as role "Player"
-2018-12-04 18:19:56 | Login failure for "" as role "Player"
-2018-12-04 18:19:56 | Login failure for "" as role "Player"
-2018-12-04 18:19:56 | Login failure for "" as role "Player"
-2018-12-04 18:19:56 | Login failure for "" as role "Player"
-2018-12-04 18:19:56 | Login failure for "" as role "Player"
-2018-12-04 18:19:56 | Login failure for "" as role "Player"
-2018-12-04 18:19:56 | Login failure for "" as role "Player"
-2018-12-04 18:19:56 | Login failure for "" as role "Player"
-2018-12-04 18:19:56 | Login failure for "" as role "Player"
-2018-12-04 18:19:56 | Login failure for "" as role "Player"
-2018-12-04 18:19:56 | Login failure for "" as role "Player"
-2018-12-04 18:19:56 | Login failure for "" as role "Player"
-2018-12-04 18:19:56 | Login failure for "" as role "Player"
-2018-12-04 18:19:56 | Login failure for "" as role "Player"
-2018-12-04 18:19:56 | Login failure for "" as role "Player"
-2018-12-04 18:19:56 | Login failure for "" as role "Player"
-2018-12-04 18:19:56 | Login failure for "" as role "Player"
-2018-12-04 18:19:56 | Login failure for "" as role "Player"
-2018-12-04 18:19:56 | Login failure for "" as role "Player"
-2018-12-04 18:19:56 | Login failure for "" as role "Player"
-2018-12-04 18:19:56 | Login failure for "" as role "Player"
-2018-12-04 18:19:56 | Login failure for "" as role "Player"
-2018-12-04 18:19:56 | Login failure for "" as role "Player"
-2018-12-04 18:19:56 | Login failure for "" as role "Player"
-2018-12-04 18:19:56 | Login failure for "" as role "Player"
-2018-12-04 18:19:56 | Login failure for "" as role "Player"
-2018-12-04 18:19:56 | Login failure for "" as role "Player"
-2018-12-04 18:19:56 | Login failure for "" as role "Player"
-2018-12-04 18:19:56 | Login failure for "" as role "Player"
-2018-12-04 18:19:56 | Login failure for "" as role "Player"
-2018-12-04 18:19:56 | Login failure for "" as role "Player"
-2018-12-04 18:19:56 | Login failure for "" as role "Player"
-2018-12-04 18:19:56 | Login failure for "" as role "Player"
-2018-12-04 18:19:56 | Login failure for "" as role "Player"
-2018-12-04 18:19:56 | Login failure for "" as role "Player"
-2018-12-04 18:19:56 | Login failure for "" as role "Player"
-2018-12-04 18:19:56 | Login failure for "" as role "Player"
-2018-12-04 18:19:56 | Login failure for "" as role "Player"
-2018-12-04 18:19:56 | Login failure for "" as role "Player"
-2018-12-04 18:19:56 | Login failure for "" as role "Player"
-2018-12-04 18:19:56 | Login failure for "" as role "Player"
-2018-12-04 18:19:56 | Login failure for "" as role "Player"
-2018-12-04 18:19:56 | Login failure for "" as role "Player"
-2018-12-04 18:19:56 | Login failure for "" as role "Player"
-2018-12-04 18:19:56 | Login failure for "" as role "Player"
-2018-12-04 18:19:56 | Login failure for "" as role "Player"
-2018-12-04 18:19:56 | Login failure for "" as role "Player"
-2018-12-04 18:19:56 | Login failure for "" as role "Player"
-2018-12-04 18:19:56 | Login failure for "" as role "Player"
-2018-12-04 18:19:56 | Login failure for "" as role "Player"
-2018-12-04 18:19:56 | Login failure for "" as role "Player"
-2018-12-04 18:19:56 | Login failure for "" as role "Player"
-2018-12-04 18:19:56 | Login failure for "" as role "Player"
-2018-12-04 18:19:56 | Login failure for "" as role "Player"
-2018-12-04 18:19:56 | Login failure for "" as role "Player"
-2018-12-04 18:19:56 | Login failure for "" as role "Player"
-2018-12-04 18:19:56 | Login failure for "" as role "Player"
-2018-12-04 18:19:57 | Login failure for "" as role "Player"
-2018-12-04 18:19:57 | Login failure for "" as role "Player"
-2018-12-04 18:19:57 | Login failure for "" as role "Player"
-2018-12-04 18:19:57 | Login failure for "" as role "Player"
-2018-12-04 18:19:57 | Login failure for "" as role "Player"
-2018-12-04 18:19:57 | Login failure for "" as role "Player"
-2018-12-04 18:19:57 | Login failure for "" as role "Player"
-2018-12-04 18:19:57 | Login failure for "" as role "Player"
-2018-12-04 18:19:57 | Login failure for "" as role "Player"
-2018-12-04 18:19:57 | Login failure for "" as role "Player"
-2018-12-04 18:19:57 | Login failure for "" as role "Player"
-2018-12-04 18:19:57 | Login failure for "" as role "Player"
-2018-12-04 18:19:57 | Login failure for "" as role "Player"
-2018-12-04 18:19:57 | Login failure for "" as role "Player"
-2018-12-04 18:19:57 | Login failure for "" as role "Player"
-2018-12-04 18:19:57 | Login failure for "" as role "Player"
-2018-12-04 18:19:57 | Login failure for "" as role "Player"
-2018-12-04 18:19:57 | Login failure for "" as role "Player"
-2018-12-04 18:19:57 | Login failure for "" as role "Player"
-2018-12-04 18:19:57 | Login failure for "" as role "Player"
-2018-12-04 18:19:57 | Login failure for "" as role "Player"
-2018-12-04 18:19:57 | Login failure for "" as role "Player"
-2018-12-04 18:19:57 | Login failure for "" as role "Player"
-2018-12-04 18:19:57 | Login failure for "" as role "Player"
-2018-12-04 18:19:57 | Login failure for "" as role "Player"
-2018-12-04 18:19:57 | Login failure for "" as role "Player"
-2018-12-04 18:19:57 | Login failure for "" as role "Player"
-2018-12-04 18:19:57 | Login failure for "" as role "Player"
-2018-12-04 18:19:57 | Login failure for "" as role "Player"
-2018-12-04 18:19:57 | Login failure for "" as role "Player"
-2018-12-04 18:19:57 | Login failure for "" as role "Player"
-2018-12-04 18:19:57 | Login failure for "" as role "Player"
-2018-12-04 18:19:57 | Login failure for "" as role "Player"
-2018-12-04 18:19:57 | Login failure for "" as role "Player"
-2018-12-04 18:19:57 | Login failure for "" as role "Player"
-2018-12-04 18:19:57 | Login failure for "" as role "Player"
-2018-12-04 18:19:57 | Login failure for "" as role "Player"
-2018-12-04 18:19:57 | Login failure for "" as role "Player"
-2018-12-04 18:19:57 | Login failure for "" as role "Player"
-2018-12-04 18:19:57 | Login failure for "" as role "Player"
-2018-12-04 18:19:57 | Login failure for "" as role "Player"
-2018-12-04 18:19:57 | Login failure for "" as role "Player"
-2018-12-04 18:19:57 | Login failure for "" as role "Player"
-2018-12-04 18:19:57 | Login failure for "" as role "Player"
-2018-12-04 18:19:57 | Login failure for "" as role "Player"
-2018-12-04 18:19:57 | Login failure for "" as role "Player"
-2018-12-04 18:19:57 | Login failure for "" as role "Player"
-2018-12-04 18:19:57 | Login failure for "" as role "Player"
-2018-12-04 18:19:57 | Login failure for "" as role "Player"
-2018-12-04 18:19:57 | Login failure for "" as role "Player"
-2018-12-04 18:19:57 | Login failure for "" as role "Player"
-2018-12-04 18:19:57 | Login failure for "" as role "Player"
-2018-12-04 18:19:57 | Login failure for "" as role "Player"
-2018-12-04 18:19:57 | Login failure for "" as role "Player"
-2018-12-04 18:19:57 | Login failure for "" as role "Player"
-2018-12-04 18:19:57 | Login failure for "" as role "Player"
-2018-12-04 18:19:57 | Login failure for "" as role "Player"
-2018-12-04 18:19:57 | Login failure for "" as role "Player"
-2018-12-04 18:19:57 | Login failure for "" as role "Player"
-2018-12-04 18:19:57 | Login failure for "" as role "Player"
-2018-12-04 18:19:57 | Login failure for "" as role "Player"
-2018-12-04 18:19:57 | Login failure for "" as role "Player"
-2018-12-04 18:19:57 | Login failure for "" as role "Player"
-2018-12-04 18:19:57 | Login failure for "" as role "Player"
-2018-12-04 18:19:57 | Login failure for "" as role "Player"
-2018-12-04 18:19:57 | Login failure for "" as role "Player"
-2018-12-04 18:19:57 | Login failure for "" as role "Player"
-2018-12-04 18:19:57 | Login failure for "" as role "Player"
-2018-12-04 18:19:57 | Login failure for "" as role "Player"
-2018-12-04 18:19:57 | Login failure for "" as role "Player"
-2018-12-04 18:19:57 | Login failure for "" as role "Player"
-2018-12-04 18:19:57 | Login failure for "" as role "Player"
-2018-12-04 18:19:57 | Login failure for "" as role "Player"
-2018-12-04 18:19:57 | Login failure for "" as role "Player"
-2018-12-04 18:19:57 | Login failure for "" as role "Player"
-2018-12-04 18:19:57 | Login failure for "" as role "Player"
-2018-12-04 18:19:57 | Login failure for "" as role "Player"
-2018-12-04 18:19:57 | Login failure for "" as role "Player"
-2018-12-04 18:19:57 | Login failure for "" as role "Player"
-2018-12-04 18:19:57 | Login failure for "" as role "Player"
-2018-12-04 18:19:57 | Login failure for "" as role "Player"
-2018-12-04 18:19:57 | Login failure for "" as role "Player"
-2018-12-04 18:19:57 | Login failure for "" as role "Player"
-2018-12-04 18:19:57 | Login failure for "" as role "Player"
-2018-12-04 18:19:57 | Login failure for "" as role "Player"
-2018-12-04 18:19:57 | Login failure for "" as role "Player"
-2018-12-04 18:19:57 | Login failure for "" as role "Player"
-2018-12-04 18:19:57 | Login failure for "" as role "Player"
-2018-12-04 18:19:57 | Login failure for "" as role "Player"
-2018-12-04 18:19:57 | Login failure for "" as role "Player"
-2018-12-04 18:19:57 | Login failure for "" as role "Player"
-2018-12-04 18:19:57 | Login failure for "" as role "Player"
-2018-12-04 18:19:57 | Login failure for "" as role "Player"
-2018-12-04 18:19:57 | Login failure for "" as role "Player"
-2018-12-04 18:19:57 | Login failure for "" as role "Player"
-2018-12-04 18:19:57 | Login failure for "" as role "Player"
-2018-12-04 18:19:57 | Login failure for "" as role "Player"
-2018-12-04 18:19:57 | Login failure for "" as role "Player"
-2018-12-04 18:19:57 | Login failure for "" as role "Player"
-2018-12-04 18:19:57 | Login failure for "" as role "Player"
-2018-12-04 18:19:57 | Login failure for "" as role "Player"
-2018-12-04 18:19:57 | Login failure for "" as role "Player"
-2018-12-04 18:19:57 | Login failure for "" as role "Player"
-2018-12-04 18:19:57 | Login failure for "" as role "Player"
-2018-12-04 18:19:57 | Login failure for "" as role "Player"
-2018-12-04 18:19:57 | Login failure for "" as role "Player"
-2018-12-04 18:19:57 | Login failure for "" as role "Player"
-2018-12-04 18:19:57 | Login failure for "" as role "Player"
-2018-12-04 18:19:57 | Login failure for "" as role "Player"
-2018-12-04 18:19:57 | Login failure for "" as role "Player"
-2018-12-04 18:19:57 | Login failure for "" as role "Player"
-2018-12-04 18:19:57 | Login failure for "" as role "Player"
-2018-12-04 18:19:57 | Login failure for "" as role "Player"
-2018-12-04 18:19:57 | Login failure for "" as role "Player"
-2018-12-04 18:19:57 | Login failure for "" as role "Player"
-2018-12-04 18:19:57 | Login failure for "" as role "Player"
-2018-12-04 18:19:57 | Login failure for "" as role "Player"
-2018-12-04 18:19:57 | Login failure for "" as role "Player"
-2018-12-04 18:19:57 | Login failure for "" as role "Player"
-2018-12-04 18:19:57 | Login failure for "" as role "Player"
-2018-12-04 18:19:57 | Login failure for "" as role "Player"
-2018-12-04 18:19:57 | Login failure for "" as role "Player"
-2018-12-04 18:19:57 | Login failure for "" as role "Player"
-2018-12-04 18:19:57 | Login failure for "" as role "Player"
-2018-12-04 18:19:57 | Login failure for "" as role "Player"
-2018-12-04 18:19:58 | Login failure for "" as role "Player"
-2018-12-04 18:19:58 | Login failure for "" as role "Player"
-2018-12-04 18:19:58 | Login failure for "" as role "Player"
-2018-12-04 18:19:58 | Login failure for "" as role "Player"
-2018-12-04 18:19:58 | Login failure for "" as role "Player"
-2018-12-04 18:19:58 | Login failure for "" as role "Player"
-2018-12-04 18:19:58 | Login failure for "" as role "Player"
-2018-12-04 18:19:58 | Login failure for "" as role "Player"
-2018-12-04 18:19:58 | Login failure for "" as role "Player"
-2018-12-04 18:19:58 | Login failure for "" as role "Player"
-2018-12-04 18:19:58 | Login failure for "" as role "Player"
-2018-12-04 18:19:58 | Login failure for "" as role "Player"
-2018-12-04 18:19:58 | Login failure for "" as role "Player"
-2018-12-04 18:19:58 | Login failure for "" as role "Player"
-2018-12-04 18:19:58 | Login failure for "" as role "Player"
-2018-12-04 18:19:58 | Login failure for "" as role "Player"
-2018-12-04 18:19:58 | Login failure for "" as role "Player"
-2018-12-04 18:19:58 | Login failure for "" as role "Player"
-2018-12-04 18:19:58 | Login failure for "" as role "Player"
-2018-12-04 18:19:58 | Login failure for "" as role "Player"
-2018-12-04 18:19:58 | Login failure for "" as role "Player"
-2018-12-04 18:19:58 | Login failure for "" as role "Player"
-2018-12-04 18:19:58 | Login failure for "" as role "Player"
-2018-12-04 18:19:58 | Login failure for "" as role "Player"
-2018-12-04 18:19:58 | Login failure for "" as role "Player"
-2018-12-04 18:19:58 | Login failure for "" as role "Player"
-2018-12-04 18:19:58 | Login failure for "" as role "Player"
-2018-12-04 18:19:58 | Login failure for "" as role "Player"
-2018-12-04 18:19:58 | Login failure for "" as role "Player"
-2018-12-04 18:19:58 | Login failure for "" as role "Player"
-2018-12-04 18:19:58 | Login failure for "" as role "Player"
-2018-12-04 18:19:58 | Login failure for "" as role "Player"
-2018-12-04 18:19:58 | Login failure for "" as role "Player"
-2018-12-04 18:19:58 | Login failure for "" as role "Player"
-2018-12-04 18:19:58 | Login failure for "" as role "Player"
-2018-12-04 18:19:58 | Login failure for "" as role "Player"
-2018-12-04 18:19:58 | Login failure for "" as role "Player"
-2018-12-04 18:19:58 | Login failure for "" as role "Player"
-2018-12-04 18:19:58 | Login failure for "" as role "Player"
-2018-12-04 18:19:58 | Login failure for "" as role "Player"
-2018-12-04 18:19:58 | Login failure for "" as role "Player"
-2018-12-04 18:19:58 | Login failure for "" as role "Player"
-2018-12-04 18:19:58 | Login failure for "" as role "Player"
-2018-12-04 18:19:58 | Login failure for "" as role "Player"
-2018-12-04 18:19:58 | Login failure for "" as role "Player"
-2018-12-04 18:19:58 | Login failure for "" as role "Player"
-2018-12-04 18:19:58 | Login failure for "" as role "Player"
-2018-12-04 18:19:58 | Login failure for "" as role "Player"
-2018-12-04 18:19:58 | Login failure for "" as role "Player"
-2018-12-04 18:19:58 | Login failure for "" as role "Player"
-2018-12-04 18:19:58 | Login failure for "" as role "Player"
-2018-12-04 18:19:58 | Login failure for "" as role "Player"
-2018-12-04 18:19:58 | Login failure for "" as role "Player"
-2018-12-04 18:19:58 | Login failure for "" as role "Player"
-2018-12-04 18:19:58 | Login failure for "" as role "Player"
-2018-12-04 18:19:58 | Login failure for "" as role "Player"
-2018-12-04 18:19:58 | Login failure for "" as role "Player"
-2018-12-04 18:19:58 | Login failure for "" as role "Player"
-2018-12-04 18:19:58 | Login failure for "" as role "Player"
-2018-12-04 18:19:58 | Login failure for "" as role "Player"
-2018-12-04 18:19:58 | Login failure for "" as role "Player"
-2018-12-04 18:19:58 | Login failure for "" as role "Player"
-2018-12-04 18:19:58 | Login failure for "" as role "Player"
-2018-12-04 18:19:58 | Login failure for "" as role "Player"
-2018-12-04 18:19:58 | Login failure for "" as role "Player"
-2018-12-04 18:19:58 | Login failure for "" as role "Player"
-2018-12-04 18:19:58 | Login failure for "" as role "Player"
-2018-12-04 18:19:58 | Login failure for "" as role "Player"
-2018-12-04 18:19:58 | Login failure for "" as role "Player"
-2018-12-04 18:19:58 | Login failure for "" as role "Player"
-2018-12-04 18:19:58 | Login failure for "" as role "Player"
-2018-12-04 18:19:58 | Login failure for "" as role "Player"
-2018-12-04 18:19:58 | Login failure for "" as role "Player"
-2018-12-04 18:19:58 | Login failure for "" as role "Player"
-2018-12-04 18:19:58 | Login failure for "" as role "Player"
-2018-12-04 18:19:58 | Login failure for "" as role "Player"
-2018-12-04 18:19:58 | Login failure for "" as role "Player"
-2018-12-04 18:19:58 | Login failure for "" as role "Player"
-2018-12-04 18:19:58 | Login failure for "" as role "Player"
-2018-12-04 18:19:58 | Login failure for "" as role "Player"
-2018-12-04 18:19:58 | Login failure for "" as role "Player"
-2018-12-04 18:19:58 | Login failure for "" as role "Player"
-2018-12-04 18:19:58 | Login failure for "" as role "Player"
-2018-12-04 18:19:58 | Login failure for "" as role "Player"
-2018-12-04 18:19:58 | Login failure for "" as role "Player"
-2018-12-04 18:19:58 | Login failure for "" as role "Player"
-2018-12-04 18:19:58 | Login failure for "" as role "Player"
-2018-12-04 18:19:58 | Login failure for "" as role "Player"
-2018-12-04 18:19:58 | Login failure for "" as role "Player"
-2018-12-04 18:19:58 | Login failure for "" as role "Player"
-2018-12-04 18:19:58 | Login failure for "" as role "Player"
-2018-12-04 18:19:58 | Login failure for "" as role "Player"
-2018-12-04 18:19:58 | Login failure for "" as role "Player"
-2018-12-04 18:20:08 | Console Logger initialized
-2018-12-04 18:20:08 | Console Logger initialized
-2018-12-04 18:20:08 | FiledValidation initialized.
-2018-12-04 18:20:08 | ConsoleUI Initialized
-2018-12-04 18:20:08 | ConsoleUI Launched
-2018-12-04 18:20:16 | Login Successful for [Carmine] as role [Player].
-2018-12-04 18:20:16 | Console Logger initialized
-2018-12-04 18:20:16 | PlayerSession Created.
-2018-12-04 18:20:36 | Console Logger initialized
-2018-12-04 18:20:36 | Console Logger initialized
-2018-12-04 18:20:36 | FiledValidation initialized.
-2018-12-04 18:20:36 | ConsoleUI Initialized
-2018-12-04 18:20:36 | ConsoleUI Launched
-2018-12-04 18:20:44 | Login Successful for [Carmine] as role [Admin].
-2018-12-04 18:20:44 | Console Logger initialized
-2018-12-04 18:20:44 | PlayerSession Created.
-2018-12-04 18:20:48 | Console Logger shutdown.
-2018-12-04 18:20:49 | ConsoleUI Shutdown
-2018-12-04 18:20:49 | FiledValidation shutdown.
-2018-12-04 18:20:49 | Console Logger shutdown.
-2018-12-04 18:20:49 | Console Logger shutdown.
-2018-12-04 18:21:00 | Console Logger initialized
-2018-12-04 18:21:00 | Console Logger initialized
-2018-12-04 18:21:00 | FiledValidation initialized.
-2018-12-04 18:21:01 | ConsoleUI Initialized
-2018-12-04 18:21:01 | ConsoleUI Launched
-2018-12-04 18:21:13 | Console Logger initialized
-2018-12-04 18:21:13 | Console Logger initialized
-2018-12-04 18:21:13 | FiledValidation initialized.
-2018-12-04 18:21:13 | ConsoleUI Initialized
-2018-12-04 18:21:13 | ConsoleUI Launched
-2018-12-04 18:22:08 | Console Logger initialized
-2018-12-04 18:22:08 | Console Logger initialized
-2018-12-04 18:22:08 | FiledValidation initialized.
-2018-12-04 18:22:08 | ConsoleUI Initialized
-2018-12-04 18:22:08 | ConsoleUI Launched
+2018-12-04 19:34:55 | Console Logger initialized
+2018-12-04 19:34:55 | Console Logger initialized
+2018-12-04 19:34:55 | FiledValidation initialized.
+2018-12-04 19:34:55 | ConsoleUI Initialized
+2018-12-04 19:34:55 | ConsoleUI Launched
+2018-12-04 19:35:01 | Login failure for "Carmine" as role "Admin"
+2018-12-04 19:35:11 | Login Successful for [Carmine] as role [Player].
+2018-12-04 19:35:11 | Console Logger initialized
+2018-12-04 19:35:11 | PlayerSession Created.
+2018-12-04 19:35:14 | Console Logger shutdown.
+2018-12-04 19:35:15 | ConsoleUI Shutdown
+2018-12-04 19:35:15 | FiledValidation shutdown.
+2018-12-04 19:35:15 | Console Logger shutdown.
+2018-12-04 19:35:15 | Console Logger shutdown.
+2018-12-04 19:36:23 | Console Logger initialized
+2018-12-04 19:36:23 | Console Logger initialized
+2018-12-04 19:36:23 | FiledValidation initialized.
+2018-12-04 19:36:23 | ConsoleUI Initialized
+2018-12-04 19:36:23 | ConsoleUI Launched
+2018-12-04 19:36:30 | Login Successful for [Carmine] as role [Player].
+2018-12-04 19:36:30 | Console Logger initialized
+2018-12-04 19:36:30 | PlayerSession Created.
+2018-12-04 19:36:32 | View Statistics Selected
+2018-12-04 19:36:32 | Console Logger shutdown.
+2018-12-04 20:17:54 | Console Logger initialized
+2018-12-04 20:17:54 | Console Logger initialized
+2018-12-04 20:17:54 | FiledValidation initialized.
+2018-12-04 20:17:54 | ConsoleUI Initialized
+2018-12-04 20:17:54 | ConsoleUI Launched
+2018-12-04 20:18:01 | Console Logger initialized
+2018-12-04 20:18:01 | Console Logger initialized
+2018-12-04 20:18:01 | FiledValidation initialized.
+2018-12-04 20:18:01 | ConsoleUI Initialized
+2018-12-04 20:18:01 | ConsoleUI Launched
+2018-12-04 20:18:09 | Login Successful for [Carmine] as role [Player].
+2018-12-04 20:18:09 | Console Logger initialized
+2018-12-04 20:18:09 | PlayerSession Created.
+2018-12-04 20:18:14 | Edit Profile Selected
+2018-12-04 20:18:55 | Console Logger initialized
+2018-12-04 20:18:55 | Console Logger initialized
+2018-12-04 20:18:55 | FiledValidation initialized.
+2018-12-04 20:18:55 | ConsoleUI Initialized
+2018-12-04 20:18:55 | ConsoleUI Launched
+2018-12-04 20:19:04 | Login Successful for [Carmine] as role [Player].
+2018-12-04 20:19:04 | Console Logger initialized
+2018-12-04 20:19:04 | PlayerSession Created.
+2018-12-04 20:19:09 | Edit Profile Selected
+2018-12-04 20:19:19 | Console Logger shutdown.
+2018-12-04 20:19:21 | ConsoleUI Shutdown
+2018-12-04 20:19:21 | FiledValidation shutdown.
+2018-12-04 20:19:21 | Console Logger shutdown.
+2018-12-04 20:19:21 | Console Logger shutdown.
+2018-12-04 20:19:24 | Console Logger initialized
+2018-12-04 20:19:24 | Console Logger initialized
+2018-12-04 20:19:24 | FiledValidation initialized.
+2018-12-04 20:19:24 | ConsoleUI Initialized
+2018-12-04 20:19:24 | ConsoleUI Launched
+2018-12-04 20:19:30 | Login failure for "Carmine" as role "Player"
+2018-12-04 20:20:40 | Console Logger initialized
+2018-12-04 20:20:40 | Console Logger initialized
+2018-12-04 20:20:40 | FiledValidation initialized.
+2018-12-04 20:20:40 | ConsoleUI Initialized
+2018-12-04 20:20:40 | ConsoleUI Launched
+2018-12-04 20:20:46 | Login Successful for [Carmine] as role [Player].
+2018-12-04 20:20:46 | Console Logger initialized
+2018-12-04 20:20:46 | PlayerSession Created.
+2018-12-04 20:20:52 | Edit Profile Selected
+2018-12-04 20:21:03 | Console Logger shutdown.
+2018-12-04 20:26:01 | Console Logger initialized
+2018-12-04 20:26:01 | Console Logger initialized
+2018-12-04 20:26:01 | FiledValidation initialized.
+2018-12-04 20:26:01 | ConsoleUI Initialized
+2018-12-04 20:26:01 | ConsoleUI Launched
+2018-12-04 20:26:09 | Login Successful for [Carmine] as role [Player].
+2018-12-04 20:26:09 | Console Logger initialized
+2018-12-04 20:26:09 | PlayerSession Created.
+2018-12-04 20:26:13 | Edit Profile Selected
+2018-12-04 20:26:19 | Console Logger shutdown.
+2018-12-04 20:26:25 | ConsoleUI Shutdown
+2018-12-04 20:26:25 | FiledValidation shutdown.
+2018-12-04 20:26:25 | Console Logger shutdown.
+2018-12-04 20:26:25 | Console Logger shutdown.
+2018-12-04 20:28:24 | Console Logger initialized
+2018-12-04 20:28:24 | Console Logger initialized
+2018-12-04 20:28:24 | FiledValidation initialized.
+2018-12-04 20:28:24 | ConsoleUI Initialized
+2018-12-04 20:28:24 | ConsoleUI Launched
+2018-12-04 20:28:44 | Console Logger initialized
+2018-12-04 20:28:44 | Console Logger initialized
+2018-12-04 20:28:44 | FiledValidation initialized.
+2018-12-04 20:28:44 | ConsoleUI Initialized
+2018-12-04 20:28:44 | ConsoleUI Launched
+2018-12-04 20:28:52 | Login Successful for [Carmine] as role [Player].
+2018-12-04 20:28:52 | Console Logger initialized
+2018-12-04 20:28:52 | PlayerSession Created.
+2018-12-04 20:29:01 | Edit Profile Selected
+2018-12-04 20:31:52 | Console Logger initialized
+2018-12-04 20:31:52 | Console Logger initialized
+2018-12-04 20:31:52 | FiledValidation initialized.
+2018-12-04 20:31:52 | ConsoleUI Initialized
+2018-12-04 20:31:52 | ConsoleUI Launched
+2018-12-04 20:32:10 | Console Logger initialized
+2018-12-04 20:32:10 | Console Logger initialized
+2018-12-04 20:32:10 | FiledValidation initialized.
+2018-12-04 20:32:10 | ConsoleUI Initialized
+2018-12-04 20:32:10 | ConsoleUI Launched
+2018-12-04 20:32:15 | Login Successful for [Carmine] as role [Player].
+2018-12-04 20:32:15 | Console Logger initialized
+2018-12-04 20:32:15 | PlayerSession Created.
+2018-12-04 20:32:17 | Edit Profile Selected
+2018-12-04 20:33:32 | Console Logger shutdown.
+2018-12-04 20:33:40 | ConsoleUI Shutdown
+2018-12-04 20:33:40 | FiledValidation shutdown.
+2018-12-04 20:33:40 | Console Logger shutdown.
+2018-12-04 20:33:40 | Console Logger shutdown.
+2018-12-04 20:35:24 | Console Logger initialized
+2018-12-04 20:35:24 | Console Logger initialized
+2018-12-04 20:35:24 | FiledValidation initialized.
+2018-12-04 20:35:24 | ConsoleUI Initialized
+2018-12-04 20:35:24 | ConsoleUI Launched
+2018-12-04 20:35:34 | Login Successful for [Carmine] as role [Player].
+2018-12-04 20:35:34 | Console Logger initialized
+2018-12-04 20:35:34 | PlayerSession Created.
+2018-12-04 20:35:37 | Edit Profile Selected
+2018-12-04 20:38:29 | Console Logger shutdown.
+2018-12-04 20:38:32 | ConsoleUI Shutdown
+2018-12-04 20:38:32 | FiledValidation shutdown.
+2018-12-04 20:38:32 | Console Logger shutdown.
+2018-12-04 20:38:32 | Console Logger shutdown.
+2018-12-04 20:40:02 | Console Logger initialized
+2018-12-04 20:40:02 | Console Logger initialized
+2018-12-04 20:40:02 | FiledValidation initialized.
+2018-12-04 20:40:02 | ConsoleUI Initialized
+2018-12-04 20:40:02 | ConsoleUI Launched
+2018-12-04 20:40:16 | Console Logger initialized
+2018-12-04 20:40:16 | Console Logger initialized
+2018-12-04 20:40:16 | FiledValidation initialized.
+2018-12-04 20:40:16 | ConsoleUI Initialized
+2018-12-04 20:40:16 | ConsoleUI Launched
+2018-12-04 20:40:22 | Login Successful for [Carmine] as role [Player].
+2018-12-04 20:40:22 | Console Logger initialized
+2018-12-04 20:40:22 | PlayerSession Created.
+2018-12-04 20:40:28 | Edit Profile Selected
+2018-12-04 20:40:55 | Console Logger shutdown.
+2018-12-04 20:40:59 | ConsoleUI Shutdown
+2018-12-04 20:40:59 | FiledValidation shutdown.
+2018-12-04 20:40:59 | Console Logger shutdown.
+2018-12-04 20:40:59 | Console Logger shutdown.
+2018-12-04 20:41:37 | Console Logger initialized
+2018-12-04 20:41:37 | Console Logger initialized
+2018-12-04 20:41:37 | FiledValidation initialized.
+2018-12-04 20:41:37 | ConsoleUI Initialized
+2018-12-04 20:41:37 | ConsoleUI Launched
+2018-12-04 20:41:45 | Login Successful for [Carmine] as role [Player].
+2018-12-04 20:41:45 | Console Logger initialized
+2018-12-04 20:41:45 | PlayerSession Created.
+2018-12-04 20:41:49 | Console Logger shutdown.
+2018-12-04 20:42:23 | Console Logger initialized
+2018-12-04 20:42:23 | Console Logger initialized
+2018-12-04 20:42:23 | FiledValidation initialized.
+2018-12-04 20:42:23 | ConsoleUI Initialized
+2018-12-04 20:42:23 | ConsoleUI Launched
+2018-12-04 20:42:39 | Console Logger initialized
+2018-12-04 20:42:39 | Console Logger initialized
+2018-12-04 20:42:39 | FiledValidation initialized.
+2018-12-04 20:42:39 | ConsoleUI Initialized
+2018-12-04 20:42:39 | ConsoleUI Launched
+2018-12-04 20:42:47 | Login Successful for [Carmine] as role [Player].
+2018-12-04 20:42:47 | Console Logger initialized
+2018-12-04 20:42:47 | PlayerSession Created.
+2018-12-04 20:42:51 | Edit Profile Selected
+2018-12-04 20:43:09 | Console Logger shutdown.
+2018-12-04 20:43:15 | ConsoleUI Shutdown
+2018-12-04 20:43:15 | FiledValidation shutdown.
+2018-12-04 20:43:15 | Console Logger shutdown.
+2018-12-04 20:43:15 | Console Logger shutdown.
+2018-12-04 20:43:43 | Console Logger initialized
+2018-12-04 20:43:43 | Console Logger initialized
+2018-12-04 20:43:43 | FiledValidation initialized.
+2018-12-04 20:43:43 | ConsoleUI Initialized
+2018-12-04 20:43:43 | ConsoleUI Launched
+2018-12-04 20:45:19 | Console Logger initialized
+2018-12-04 20:45:19 | Console Logger initialized
+2018-12-04 20:45:19 | FiledValidation initialized.
+2018-12-04 20:45:19 | ConsoleUI Initialized
+2018-12-04 20:45:19 | ConsoleUI Launched
+2018-12-04 20:46:38 | Login Successful for [Carmine] as role [Admin].
+2018-12-04 20:46:38 | Console Logger initialized
+2018-12-04 20:46:38 | AdminSession Created.
+2018-12-04 20:46:55 | View User Logs selected.
+2018-12-04 20:46:55 | Console Logger shutdown.
+2018-12-04 20:47:03 | ConsoleUI Shutdown
+2018-12-04 20:47:03 | FiledValidation shutdown.
+2018-12-04 20:47:03 | Console Logger shutdown.
+2018-12-04 20:47:03 | Console Logger shutdown.
+2018-12-04 20:47:05 | Console Logger initialized
+2018-12-04 20:47:05 | Console Logger initialized
+2018-12-04 20:47:05 | FiledValidation initialized.
+2018-12-04 20:47:05 | ConsoleUI Initialized
+2018-12-04 20:47:05 | ConsoleUI Launched
+2018-12-04 20:47:27 | Console Logger initialized
+2018-12-04 20:47:27 | Console Logger initialized
+2018-12-04 20:47:27 | FiledValidation initialized.
+2018-12-04 20:47:27 | ConsoleUI Initialized
+2018-12-04 20:47:27 | ConsoleUI Launched
+2018-12-04 20:47:52 | Console Logger initialized
+2018-12-04 20:47:52 | Console Logger initialized
+2018-12-04 20:47:52 | FiledValidation initialized.
+2018-12-04 20:47:52 | ConsoleUI Initialized
+2018-12-04 20:47:52 | ConsoleUI Launched
+2018-12-04 20:49:10 | ConsoleUI Shutdown
+2018-12-04 20:49:10 | FiledValidation shutdown.
+2018-12-04 20:49:10 | Console Logger shutdown.
+2018-12-04 20:49:10 | Console Logger shutdown.
+2018-12-04 20:49:29 | Console Logger initialized
+2018-12-04 20:49:29 | Console Logger initialized
+2018-12-04 20:49:29 | FiledValidation initialized.
+2018-12-04 20:49:29 | ConsoleUI Initialized
+2018-12-04 20:49:29 | ConsoleUI Launched
+2018-12-04 20:49:38 | Login Successful for [hello] as role [Player].
+2018-12-04 20:49:38 | Console Logger initialized
+2018-12-04 20:49:38 | PlayerSession Created.
+2018-12-04 20:50:00 | View Statistics Selected
+2018-12-04 20:50:00 | Console Logger shutdown.
+2018-12-04 20:50:09 | ConsoleUI Shutdown
+2018-12-04 20:50:09 | FiledValidation shutdown.
+2018-12-04 20:50:09 | Console Logger shutdown.
+2018-12-04 20:50:09 | Console Logger shutdown.
+2018-12-04 20:50:11 | Console Logger initialized
+2018-12-04 20:50:11 | Console Logger initialized
+2018-12-04 20:50:11 | FiledValidation initialized.
+2018-12-04 20:50:11 | ConsoleUI Initialized
+2018-12-04 20:50:11 | ConsoleUI Launched
+2018-12-04 20:50:26 | Login Successful for [Carmine] as role [Admin].
+2018-12-04 20:50:26 | Console Logger initialized
+2018-12-04 20:50:26 | AdminSession Created.
+2018-12-04 20:54:40 | Console Logger initialized
+2018-12-04 20:54:40 | Console Logger initialized
+2018-12-04 20:54:40 | FiledValidation initialized.
+2018-12-04 20:54:40 | ConsoleUI Initialized
+2018-12-04 20:54:40 | ConsoleUI Launched
+2018-12-04 20:55:04 | Console Logger initialized
+2018-12-04 20:55:04 | Console Logger initialized
+2018-12-04 20:55:04 | HardCodedValidation being used and has been successfully initialized
+2018-12-04 20:55:04 | ConsoleUI Initialized
+2018-12-04 20:55:04 | ConsoleUI Launched
+2018-12-04 20:55:17 | Console Logger initialized
+2018-12-04 20:55:17 | Console Logger initialized
+2018-12-04 20:55:17 | HardCodedValidation being used and has been successfully initialized
+2018-12-04 20:55:17 | ConsoleUI Initialized
+2018-12-04 20:55:17 | ConsoleUI Launched
+2018-12-04 20:55:23 | Login Successful for [Carmine] as role [Admin].
+2018-12-04 20:55:23 | Console Logger initialized
+2018-12-04 20:55:23 | AdminSession Created.
+2018-12-04 20:55:30 | Change Configuration selected.
+2018-12-04 20:56:26 | Console Logger shutdown.
+2018-12-04 20:56:27 | ConsoleUI Shutdown
+2018-12-04 20:56:27 | HardCodedValidation shutdown successfully
+2018-12-04 20:56:27 | Console Logger shutdown.
+2018-12-04 20:56:27 | Console Logger shutdown.
+2018-12-04 20:56:39 | Console Logger initialized
+2018-12-04 20:56:39 | Console Logger initialized
+2018-12-04 20:56:39 | FiledValidation initialized.
+2018-12-04 20:56:39 | ConsoleUI Initialized
+2018-12-04 20:56:39 | ConsoleUI Launched
+2018-12-04 20:56:56 | Console Logger initialized
+2018-12-04 20:56:56 | Console Logger initialized
+2018-12-04 20:56:56 | FiledValidation initialized.
+2018-12-04 20:56:56 | ConsoleUI Initialized
+2018-12-04 20:56:56 | ConsoleUI Launched
+2018-12-04 20:57:06 | Login failure for "Carmine" as role "Player"
+2018-12-04 20:57:09 | Console Logger initialized
+2018-12-04 20:57:09 | Console Logger initialized
+2018-12-04 20:57:09 | FiledValidation initialized.
+2018-12-04 20:57:09 | ConsoleUI Initialized
+2018-12-04 20:57:09 | ConsoleUI Launched
+2018-12-04 20:57:22 | Login Successful for [Carmine] as role [Player].
+2018-12-04 20:57:22 | Console Logger initialized
+2018-12-04 20:57:22 | PlayerSession Created.
+2018-12-04 21:02:04 | Console Logger initialized
+2018-12-04 21:02:04 | Console Logger initialized
+2018-12-04 21:02:04 | FiledValidation initialized.
+2018-12-04 21:02:04 | ConsoleUI Initialized
+2018-12-04 21:02:04 | ConsoleUI Launched
+2018-12-04 21:02:32 | Console Logger initialized
+2018-12-04 21:02:32 | Console Logger initialized
+2018-12-04 21:02:32 | FiledValidation initialized.
+2018-12-04 21:02:32 | ConsoleUI Initialized
+2018-12-04 21:02:32 | ConsoleUI Launched
+2018-12-04 21:03:15 | Console Logger initialized
+2018-12-04 21:03:15 | Console Logger initialized
+2018-12-04 21:03:15 | FiledValidation initialized.
+2018-12-04 21:03:15 | ConsoleUI Initialized
+2018-12-04 21:03:15 | ConsoleUI Launched
+2018-12-04 21:03:26 | Login Successful for [Carmine] as role [Player].
+2018-12-04 21:03:26 | Console Logger initialized
+2018-12-04 21:03:26 | PlayerSession Created.
+2018-12-04 21:03:29 | Console Logger shutdown.
+2018-12-04 21:03:30 | ConsoleUI Shutdown
+2018-12-04 21:03:30 | FiledValidation shutdown.
+2018-12-04 21:03:30 | Console Logger shutdown.
+2018-12-04 21:03:30 | Console Logger shutdown.
+2018-12-04 21:21:30 | Console Logger initialized
+2018-12-04 21:21:30 | Console Logger initialized
+2018-12-04 21:21:30 | FiledValidation initialized.
+2018-12-04 21:21:30 | ConsoleUI Initialized
+2018-12-04 21:21:30 | ConsoleUI Launched
+2018-12-04 21:21:39 | Login Successful for [Carmine] as role [Player].
+2018-12-04 21:21:39 | Console Logger initialized
+2018-12-04 21:21:39 | PlayerSession Created.
+2018-12-04 21:21:46 | View Game Information Selected
+2018-12-04 21:21:46 | Console Logger shutdown.
+2018-12-04 21:22:10 | Console Logger initialized
+2018-12-04 21:22:10 | Console Logger initialized
+2018-12-04 21:22:10 | FiledValidation initialized.
+2018-12-04 21:22:10 | ConsoleUI Initialized
+2018-12-04 21:22:10 | ConsoleUI Launched
+2018-12-04 21:22:18 | Console Logger initialized
+2018-12-04 21:22:18 | Console Logger initialized
+2018-12-04 21:22:18 | FiledValidation initialized.
+2018-12-04 21:22:18 | ConsoleUI Initialized
+2018-12-04 21:22:18 | ConsoleUI Launched
+2018-12-04 21:22:24 | Login Successful for [Carmine] as role [Player].
+2018-12-04 21:22:24 | Console Logger initialized
+2018-12-04 21:22:24 | PlayerSession Created.
+2018-12-04 21:22:26 | View Game Information Selected
+2018-12-04 21:22:26 | Console Logger shutdown.
+2018-12-04 21:37:15 | Console Logger initialized
+2018-12-04 21:37:15 | Console Logger initialized
+2018-12-04 21:37:15 | FiledValidation initialized.
+2018-12-04 21:37:15 | ConsoleUI Initialized
+2018-12-04 21:37:15 | ConsoleUI Launched
+2018-12-04 21:37:23 | Login Successful for [Carmine] as role [Admin].
+2018-12-04 21:37:23 | Console Logger initialized
+2018-12-04 21:37:23 | AdminSession Created.
+2018-12-04 21:37:26 | Change Configuration selected.
+2018-12-04 21:38:27 | Console Logger initialized
+2018-12-04 21:38:27 | Console Logger initialized
+2018-12-04 21:38:27 | FiledValidation initialized.
+2018-12-04 21:38:27 | ConsoleUI Initialized
+2018-12-04 21:38:27 | ConsoleUI Launched
+2018-12-04 21:38:30 | Console Logger initialized
+2018-12-04 21:38:30 | Console Logger initialized
+2018-12-04 21:38:30 | FiledValidation initialized.
+2018-12-04 21:38:30 | ConsoleUI Initialized
+2018-12-04 21:38:30 | ConsoleUI Launched
+2018-12-04 21:38:35 | Login Successful for [Carmine] as role [Player].
+2018-12-04 21:38:35 | Console Logger initialized
+2018-12-04 21:38:35 | PlayerSession Created.
+2018-12-04 21:38:39 | Edit Profile Selected
+2018-12-04 21:38:44 | Console Logger shutdown.
+2018-12-04 21:38:48 | ConsoleUI Shutdown
+2018-12-04 21:38:48 | FiledValidation shutdown.
+2018-12-04 21:38:48 | Console Logger shutdown.
+2018-12-04 21:38:48 | Console Logger shutdown.
+2018-12-04 21:39:19 | Console Logger initialized
+2018-12-04 21:39:19 | Console Logger initialized
+2018-12-04 21:39:19 | FiledValidation initialized.
+2018-12-04 21:39:19 | ConsoleUI Initialized
+2018-12-04 21:39:19 | ConsoleUI Launched

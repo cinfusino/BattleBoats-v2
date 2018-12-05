@@ -12,6 +12,7 @@
 #include "LoggerHandler.hpp"
 #include "Session.hpp"
 #include "FiledPersistance.hpp"
+#include "AuthenticatorHandler.hpp"
 
 namespace Domain::BattleBoats
 {
@@ -26,7 +27,8 @@ namespace Domain::BattleBoats
 		~AdminSession() override;
 
 	private:
-		std::unique_ptr<TechnicalServices::Logging::LoggerHandler> _loggerPtr;
+		std::unique_ptr<TechnicalServices::Logging::LoggerHandler>			_loggerPtr;
+		std::unique_ptr<Domain::AccountManagement::AuthenticatorHandler>	_authenticator;
 
 		TechnicalServices::Logging::LoggerHandler & _logger = *_loggerPtr;
 	};

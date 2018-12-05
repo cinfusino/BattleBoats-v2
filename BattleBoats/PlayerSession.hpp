@@ -5,6 +5,8 @@
 #include <string>
 #include <vector>
 
+#include "PersistanceHandler.hpp"
+#include "AuthenticatorHandler.hpp"
 #include "LoggerHandler.hpp"
 #include "ConsoleLogger.hpp"
 #include "Session.hpp"
@@ -25,6 +27,8 @@ namespace Domain::BattleBoats
 		~PlayerSession() override;
 	private:
 		std::unique_ptr<TechnicalServices::Logging::LoggerHandler> _loggerPtr;
+		std::unique_ptr<TechnicalServices::Persistance::PersistanceHandler> _persistanceData;
+		std::unique_ptr<Domain::AccountManagement::AuthenticatorHandler>       _authenticator;
 
 		TechnicalServices::Logging::LoggerHandler & _logger = *_loggerPtr;
 	};
