@@ -18,6 +18,53 @@
       <Platform>x64</Platform>
     </ProjectConfiguration>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Domain\AccountManagement\FiledValidation.cpp" />
+    <ClCompile Include="Domain\AccountManagement\HardCodedValidation.cpp" />
+    <ClCompile Include="Domain\BattleBoats\AdminSession.cpp" />
+    <ClCompile Include="Domain\BattleBoats\AIBoard.cpp" />
+    <ClCompile Include="Domain\BattleBoats\Board.cpp" />
+    <ClCompile Include="Domain\BattleBoats\Cell.cpp" />
+    <ClCompile Include="Domain\BattleBoats\Game.cpp" />
+    <ClCompile Include="Domain\BattleBoats\PlayerBoard.cpp" />
+    <ClCompile Include="Domain\BattleBoats\PlayerSession.cpp" />
+    <ClCompile Include="Domain\BattleBoats\Session.cpp" />
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="TechnicalServices\ConfigManager.cpp" />
+    <ClCompile Include="TechnicalServices\Persistance\FiledPersistance.cpp" />
+    <ClCompile Include="TechnicalServices\Persistance\HardCodedPersistance.cpp" />
+    <ClCompile Include="UI\ConsoleUI.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Domain\AccountManagement\AuthenticatorHandler.hpp" />
+    <ClInclude Include="Domain\AccountManagement\FiledValidation.hpp" />
+    <ClInclude Include="Domain\AccountManagement\HardCodedValidation.hpp" />
+    <ClInclude Include="Domain\AccountManagement\NumberAuthenticator.hpp" />
+    <ClInclude Include="Domain\AccountManagement\ValidationHandler.hpp" />
+    <ClInclude Include="Domain\AccountManagement\WordAuthenticator.hpp" />
+    <ClInclude Include="Domain\BattleBoats\AdminSession.hpp" />
+    <ClInclude Include="Domain\BattleBoats\AIBoard.hpp" />
+    <ClInclude Include="Domain\BattleBoats\AircraftCarrierBoat.hpp" />
+    <ClInclude Include="Domain\BattleBoats\BattleshipBoat.hpp" />
+    <ClInclude Include="Domain\BattleBoats\Board.hpp" />
+    <ClInclude Include="Domain\BattleBoats\Boat.hpp" />
+    <ClInclude Include="Domain\BattleBoats\Cell.hpp" />
+    <ClInclude Include="Domain\BattleBoats\CruiserBoat.hpp" />
+    <ClInclude Include="Domain\BattleBoats\DestroyerBoat.hpp" />
+    <ClInclude Include="Domain\BattleBoats\Game.hpp" />
+    <ClInclude Include="Domain\BattleBoats\PlayerBoard.hpp" />
+    <ClInclude Include="Domain\BattleBoats\PlayerSession.hpp" />
+    <ClInclude Include="Domain\BattleBoats\Session.hpp" />
+    <ClInclude Include="Domain\BattleBoats\SubmarineBoat.hpp" />
+    <ClInclude Include="TechnicalServices\ConfigManager.hpp" />
+    <ClInclude Include="TechnicalServices\Logging\ConsoleLogger.hpp" />
+    <ClInclude Include="TechnicalServices\Logging\LoggerHandler.hpp" />
+    <ClInclude Include="TechnicalServices\Persistance\FiledPersistance.hpp" />
+    <ClInclude Include="TechnicalServices\Persistance\HardCodedPersistance.hpp" />
+    <ClInclude Include="TechnicalServices\Persistance\PersistanceHandler.hpp" />
+    <ClInclude Include="UI\ConsoleUI.hpp" />
+    <ClInclude Include="UI\UIHandler.hpp" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
     <ProjectGuid>{5DE891B0-BF6B-41D1-8D2B-876ECCEF59A4}</ProjectGuid>
@@ -77,7 +124,11 @@
       <SDLCheck>true</SDLCheck>
       <ConformanceMode>true</ConformanceMode>
       <AdditionalOptions>/std:c++17 %(AdditionalOptions)</AdditionalOptions>
+      <AdditionalIncludeDirectories>D:\Documents\college\2018-2019\CPSC 462\BattleBoats\BattleBoats;D:\Documents\college\2018-2019\CPSC 462\BattleBoats\BattleBoats\UI;D:\Documents\college\2018-2019\CPSC 462\BattleBoats\BattleBoats\TechnicalServices;D:\Documents\college\2018-2019\CPSC 462\BattleBoats\BattleBoats\TechnicalServices\Persistance;D:\Documents\college\2018-2019\CPSC 462\BattleBoats\BattleBoats\TechnicalServices\Logging;D:\Documents\college\2018-2019\CPSC 462\BattleBoats\BattleBoats\Domain;D:\Documents\college\2018-2019\CPSC 462\BattleBoats\BattleBoats\Domain\BattleBoats;D:\Documents\college\2018-2019\CPSC 462\BattleBoats\BattleBoats\Domain\AccountManagement;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
+    <Link>
+      <AdditionalLibraryDirectories>D:\Documents\college\2018-2019\CPSC 462\BattleBoats\BattleBoats\UI;D:\Documents\college\2018-2019\CPSC 462\BattleBoats\BattleBoats;D:\Documents\college\2018-2019\CPSC 462\BattleBoats\BattleBoats\TechnicalServices;D:\Documents\college\2018-2019\CPSC 462\BattleBoats\BattleBoats\TechnicalServices\Persistance;D:\Documents\college\2018-2019\CPSC 462\BattleBoats\BattleBoats\Domain\AccountManagement;D:\Documents\college\2018-2019\CPSC 462\BattleBoats\BattleBoats\Domain\BattleBoats;D:\Documents\college\2018-2019\CPSC 462\BattleBoats\BattleBoats\Domain;D:\Documents\college\2018-2019\CPSC 462\BattleBoats\BattleBoats\TechnicalServices\Logging;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+    </Link>
   </ItemDefinitionGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
     <ClCompile>
@@ -115,53 +166,6 @@
       <OptimizeReferences>true</OptimizeReferences>
     </Link>
   </ItemDefinitionGroup>
-  <ItemGroup>
-    <ClCompile Include="AdminSession.cpp" />
-    <ClCompile Include="AIBoard.cpp" />
-    <ClCompile Include="Board.cpp" />
-    <ClCompile Include="Cell.cpp" />
-    <ClCompile Include="ConfigManager.cpp" />
-    <ClCompile Include="ConsoleUI.cpp" />
-    <ClCompile Include="FiledPersistance.cpp" />
-    <ClCompile Include="FiledValidation.cpp" />
-    <ClCompile Include="Game.cpp" />
-    <ClCompile Include="HardCodedPersistance.cpp" />
-    <ClCompile Include="HardCodedValidation.cpp" />
-    <ClCompile Include="main.cpp" />
-    <ClCompile Include="PersistanceHandler.hpp" />
-    <ClCompile Include="PlayerBoard.cpp" />
-    <ClCompile Include="PlayerSession.cpp" />
-    <ClCompile Include="Session.cpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="AdminSession.hpp" />
-    <ClInclude Include="AIBoard.hpp" />
-    <ClInclude Include="AircraftCarrierBoat.hpp" />
-    <ClInclude Include="AuthenticatorHandler.hpp" />
-    <ClInclude Include="BattleshipBoat.hpp" />
-    <ClInclude Include="Board.hpp" />
-    <ClInclude Include="Boat.hpp" />
-    <ClInclude Include="Cell.hpp" />
-    <ClInclude Include="ConfigManager.hpp" />
-    <ClInclude Include="ConsoleLogger.hpp" />
-    <ClInclude Include="ConsoleUI.hpp" />
-    <ClInclude Include="CruiserBoat.hpp" />
-    <ClInclude Include="DestroyerBoat.hpp" />
-    <ClInclude Include="FiledPersistance.hpp" />
-    <ClInclude Include="FiledValidation.hpp" />
-    <ClInclude Include="Game.hpp" />
-    <ClInclude Include="HardCodedPersistance.hpp" />
-    <ClInclude Include="HardCodedValidation.hpp" />
-    <ClInclude Include="WordAuthenticator.hpp" />
-    <ClInclude Include="NumberAuthenticator.hpp" />
-    <ClInclude Include="ValidationHandler.hpp" />
-    <ClInclude Include="LoggerHandler.hpp" />
-    <ClInclude Include="PlayerBoard.hpp" />
-    <ClInclude Include="PlayerSession.hpp" />
-    <ClInclude Include="Session.hpp" />
-    <ClInclude Include="SubmarineBoat.hpp" />
-    <ClInclude Include="UIHandler.hpp" />
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

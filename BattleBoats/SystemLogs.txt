@@ -359,3 +359,39 @@
 2018-12-04 21:39:19 | FiledValidation initialized.
 2018-12-04 21:39:19 | ConsoleUI Initialized
 2018-12-04 21:39:19 | ConsoleUI Launched
+2018-12-05 01:44:11 | Console Logger initialized
+2018-12-05 01:44:11 | Console Logger initialized
+2018-12-05 01:44:11 | FiledValidation initialized.
+2018-12-05 01:44:11 | ConsoleUI Initialized
+2018-12-05 01:44:11 | ConsoleUI Launched
+2018-12-05 01:45:25 | Login failure for "Carmine" as role "Player"
+2018-12-05 01:45:32 | Login failure for "Carmine" as role "Player"
+2018-12-05 01:46:32 | Console Logger initialized
+2018-12-05 01:46:32 | Console Logger initialized
+2018-12-05 01:46:32 | FiledValidation initialized.
+2018-12-05 01:46:32 | ConsoleUI Initialized
+2018-12-05 01:46:32 | ConsoleUI Launched
+2018-12-05 01:47:01 | Login failure for "Carmine" as role "Player"
+2018-12-05 01:47:15 | Login Successful for [hello] as role [Player].
+2018-12-05 01:47:15 | Console Logger initialized
+2018-12-05 01:47:15 | PlayerSession Created.
+2018-12-05 01:47:19 | Console Logger shutdown.
+2018-12-05 01:47:20 | ConsoleUI Shutdown
+2018-12-05 01:47:20 | FiledValidation shutdown.
+2018-12-05 01:47:20 | Console Logger shutdown.
+2018-12-05 01:47:20 | Console Logger shutdown.
+2018-12-05 02:28:09 | Console Logger initialized
+2018-12-05 02:28:09 | Console Logger initialized
+2018-12-05 02:28:09 | FiledValidation initialized.
+2018-12-05 02:28:09 | ConsoleUI Initialized
+2018-12-05 02:28:09 | ConsoleUI Launched
+2018-12-05 02:28:19 | Login failure for "Carmine" as role "Admin"
+2018-12-05 02:28:55 | Login Successful for [Carmine] as role [Player].
+2018-12-05 02:28:55 | Console Logger initialized
+2018-12-05 02:28:55 | PlayerSession Created.
+2018-12-05 02:28:57 | Play Game Selected
+2018-12-05 02:33:27 | Console Logger initialized
+2018-12-05 02:33:27 | Console Logger initialized
+2018-12-05 02:33:27 | FiledValidation initialized.
+2018-12-05 02:33:27 | ConsoleUI Initialized
+2018-12-05 02:33:27 | ConsoleUI Launched

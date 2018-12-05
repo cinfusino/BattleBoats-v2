@@ -1,150 +1,157 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <Filter Include="Source Files">
-      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
-      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    <Filter Include="UI">
+      <UniqueIdentifier>{b2a5bb12-6e87-4efc-8125-18beafa4a428}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Header Files">
-      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
-      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    <Filter Include="TechnicalServices">
+      <UniqueIdentifier>{771ad4be-07c2-434f-b87a-1d53319ade90}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Resource Files">
-      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
-      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    <Filter Include="Domain">
+      <UniqueIdentifier>{969f317e-bd29-4cb3-b879-fd1b707c2495}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="TechnicalServices\Logging">
+      <UniqueIdentifier>{fa589cdf-5583-4c9b-8d67-ba8ee0d0d5a3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="TechnicalServices\Persistance">
+      <UniqueIdentifier>{e197003a-a18f-4ea2-8062-f4274a239671}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Domain\AccountManagement">
+      <UniqueIdentifier>{a80213f2-9fb9-46c7-94b3-b411c7b18f7b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Domain\BattleBoats">
+      <UniqueIdentifier>{fef413e4-ae2a-4d7a-9c3b-eadb1357bea3}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="main.cpp">
-      <Filter>Source Files</Filter>
+    <ClCompile Include="UI\ConsoleUI.cpp">
+      <Filter>UI</Filter>
     </ClCompile>
-    <ClCompile Include="ConsoleUI.cpp">
-      <Filter>Source Files</Filter>
+    <ClCompile Include="TechnicalServices\ConfigManager.cpp">
+      <Filter>TechnicalServices</Filter>
     </ClCompile>
-    <ClCompile Include="Session.cpp">
-      <Filter>Source Files</Filter>
+    <ClCompile Include="TechnicalServices\Persistance\FiledPersistance.cpp">
+      <Filter>TechnicalServices\Persistance</Filter>
     </ClCompile>
-    <ClCompile Include="PersistanceHandler.hpp">
-      <Filter>Header Files</Filter>
+    <ClCompile Include="TechnicalServices\Persistance\HardCodedPersistance.cpp">
+      <Filter>TechnicalServices\Persistance</Filter>
     </ClCompile>
-    <ClCompile Include="HardCodedPersistance.cpp">
-      <Filter>Source Files</Filter>
+    <ClCompile Include="Domain\AccountManagement\FiledValidation.cpp">
+      <Filter>Domain\AccountManagement</Filter>
     </ClCompile>
-    <ClCompile Include="Cell.cpp">
-      <Filter>Source Files</Filter>
+    <ClCompile Include="Domain\AccountManagement\HardCodedValidation.cpp">
+      <Filter>Domain\AccountManagement</Filter>
     </ClCompile>
-    <ClCompile Include="Board.cpp">
-      <Filter>Source Files</Filter>
+    <ClCompile Include="Domain\BattleBoats\AdminSession.cpp">
+      <Filter>Domain\BattleBoats</Filter>
     </ClCompile>
-    <ClCompile Include="PlayerBoard.cpp">
-      <Filter>Source Files</Filter>
+    <ClCompile Include="Domain\BattleBoats\AIBoard.cpp">
+      <Filter>Domain\BattleBoats</Filter>
     </ClCompile>
-    <ClCompile Include="AIBoard.cpp">
-      <Filter>Source Files</Filter>
+    <ClCompile Include="Domain\BattleBoats\Board.cpp">
+      <Filter>Domain\BattleBoats</Filter>
     </ClCompile>
-    <ClCompile Include="Game.cpp">
-      <Filter>Source Files</Filter>
+    <ClCompile Include="Domain\BattleBoats\Cell.cpp">
+      <Filter>Domain\BattleBoats</Filter>
     </ClCompile>
-    <ClCompile Include="FiledPersistance.cpp">
-      <Filter>Source Files</Filter>
+    <ClCompile Include="Domain\BattleBoats\Game.cpp">
+      <Filter>Domain\BattleBoats</Filter>
     </ClCompile>
-    <ClCompile Include="HardCodedValidation.cpp">
-      <Filter>Source Files</Filter>
+    <ClCompile Include="Domain\BattleBoats\PlayerBoard.cpp">
+      <Filter>Domain\BattleBoats</Filter>
     </ClCompile>
-    <ClCompile Include="FiledValidation.cpp">
-      <Filter>Source Files</Filter>
+    <ClCompile Include="Domain\BattleBoats\PlayerSession.cpp">
+      <Filter>Domain\BattleBoats</Filter>
     </ClCompile>
-    <ClCompile Include="PlayerSession.cpp">
-      <Filter>Source Files</Filter>
+    <ClCompile Include="Domain\BattleBoats\Session.cpp">
+      <Filter>Domain\BattleBoats</Filter>
     </ClCompile>
-    <ClCompile Include="AdminSession.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="ConfigManager.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
+    <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="ConsoleUI.hpp">
-      <Filter>Header Files</Filter>
+    <ClInclude Include="UI\ConsoleUI.hpp">
+      <Filter>UI</Filter>
     </ClInclude>
-    <ClInclude Include="UIHandler.hpp">
-      <Filter>Header Files</Filter>
+    <ClInclude Include="UI\UIHandler.hpp">
+      <Filter>UI</Filter>
     </ClInclude>
-    <ClInclude Include="Session.hpp">
-      <Filter>Header Files</Filter>
+    <ClInclude Include="TechnicalServices\ConfigManager.hpp">
+      <Filter>TechnicalServices</Filter>
     </ClInclude>
-    <ClInclude Include="PlayerSession.hpp">
-      <Filter>Header Files</Filter>
+    <ClInclude Include="TechnicalServices\Persistance\FiledPersistance.hpp">
+      <Filter>TechnicalServices\Persistance</Filter>
     </ClInclude>
-    <ClInclude Include="AdminSession.hpp">
-      <Filter>Header Files</Filter>
+    <ClInclude Include="TechnicalServices\Persistance\HardCodedPersistance.hpp">
+      <Filter>TechnicalServices\Persistance</Filter>
     </ClInclude>
-    <ClInclude Include="HardCodedPersistance.hpp">
-      <Filter>Header Files</Filter>
+    <ClInclude Include="TechnicalServices\Persistance\PersistanceHandler.hpp">
+      <Filter>TechnicalServices\Persistance</Filter>
     </ClInclude>
-    <ClInclude Include="Cell.hpp">
-      <Filter>Header Files</Filter>
+    <ClInclude Include="TechnicalServices\Logging\ConsoleLogger.hpp">
+      <Filter>TechnicalServices\Logging</Filter>
     </ClInclude>
-    <ClInclude Include="LoggerHandler.hpp">
-      <Filter>Header Files</Filter>
+    <ClInclude Include="TechnicalServices\Logging\LoggerHandler.hpp">
+      <Filter>TechnicalServices\Logging</Filter>
     </ClInclude>
-    <ClInclude Include="ConsoleLogger.hpp">
-      <Filter>Header Files</Filter>
+    <ClInclude Include="Domain\AccountManagement\AuthenticatorHandler.hpp">
+      <Filter>Domain\AccountManagement</Filter>
     </ClInclude>
-    <ClInclude Include="Boat.hpp">
-      <Filter>Header Files</Filter>
+    <ClInclude Include="Domain\AccountManagement\FiledValidation.hpp">
+      <Filter>Domain\AccountManagement</Filter>
     </ClInclude>
-    <ClInclude Include="CruiserBoat.hpp">
-      <Filter>Header Files</Filter>
+    <ClInclude Include="Domain\AccountManagement\HardCodedValidation.hpp">
+      <Filter>Domain\AccountManagement</Filter>
     </ClInclude>
-    <ClInclude Include="BattleshipBoat.hpp">
-      <Filter>Header Files</Filter>
+    <ClInclude Include="Domain\AccountManagement\NumberAuthenticator.hpp">
+      <Filter>Domain\AccountManagement</Filter>
     </ClInclude>
-    <ClInclude Include="SubmarineBoat.hpp">
-      <Filter>Header Files</Filter>
+    <ClInclude Include="Domain\AccountManagement\ValidationHandler.hpp">
+      <Filter>Domain\AccountManagement</Filter>
     </ClInclude>
-    <ClInclude Include="AircraftCarrierBoat.hpp">
-      <Filter>Header Files</Filter>
+    <ClInclude Include="Domain\AccountManagement\WordAuthenticator.hpp">
+      <Filter>Domain\AccountManagement</Filter>
     </ClInclude>
-    <ClInclude Include="DestroyerBoat.hpp">
-      <Filter>Header Files</Filter>
+    <ClInclude Include="Domain\BattleBoats\AdminSession.hpp">
+      <Filter>Domain\BattleBoats</Filter>
     </ClInclude>
-    <ClInclude Include="Board.hpp">
-      <Filter>Header Files</Filter>
+    <ClInclude Include="Domain\BattleBoats\AIBoard.hpp">
+      <Filter>Domain\BattleBoats</Filter>
     </ClInclude>
-    <ClInclude Include="PlayerBoard.hpp">
-      <Filter>Header Files</Filter>
+    <ClInclude Include="Domain\BattleBoats\AircraftCarrierBoat.hpp">
+      <Filter>Domain\BattleBoats</Filter>
     </ClInclude>
-    <ClInclude Include="AIBoard.hpp">
-      <Filter>Header Files</Filter>
+    <ClInclude Include="Domain\BattleBoats\BattleshipBoat.hpp">
+      <Filter>Domain\BattleBoats</Filter>
     </ClInclude>
-    <ClInclude Include="Game.hpp">
-      <Filter>Header Files</Filter>
+    <ClInclude Include="Domain\BattleBoats\Board.hpp">
+      <Filter>Domain\BattleBoats</Filter>
     </ClInclude>
-    <ClInclude Include="FiledPersistance.hpp">
-      <Filter>Header Files</Filter>
+    <ClInclude Include="Domain\BattleBoats\Boat.hpp">
+      <Filter>Domain\BattleBoats</Filter>
     </ClInclude>
-    <ClInclude Include="HardCodedValidation.hpp">
-      <Filter>Header Files</Filter>
+    <ClInclude Include="Domain\BattleBoats\Cell.hpp">
+      <Filter>Domain\BattleBoats</Filter>
     </ClInclude>
-    <ClInclude Include="ValidationHandler.hpp">
-      <Filter>Header Files</Filter>
+    <ClInclude Include="Domain\BattleBoats\CruiserBoat.hpp">
+      <Filter>Domain\BattleBoats</Filter>
     </ClInclude>
-    <ClInclude Include="FiledValidation.hpp">
-      <Filter>Header Files</Filter>
+    <ClInclude Include="Domain\BattleBoats\DestroyerBoat.hpp">
+      <Filter>Domain\BattleBoats</Filter>
     </ClInclude>
-    <ClInclude Include="AuthenticatorHandler.hpp">
-      <Filter>Header Files</Filter>
+    <ClInclude Include="Domain\BattleBoats\Game.hpp">
+      <Filter>Domain\BattleBoats</Filter>
     </ClInclude>
-    <ClInclude Include="NumberAuthenticator.hpp">
-      <Filter>Header Files</Filter>
+    <ClInclude Include="Domain\BattleBoats\PlayerBoard.hpp">
+      <Filter>Domain\BattleBoats</Filter>
     </ClInclude>
-    <ClInclude Include="WordAuthenticator.hpp">
-      <Filter>Header Files</Filter>
+    <ClInclude Include="Domain\BattleBoats\PlayerSession.hpp">
+      <Filter>Domain\BattleBoats</Filter>
     </ClInclude>
-    <ClInclude Include="ConfigManager.hpp">
-      <Filter>Header Files</Filter>
+    <ClInclude Include="Domain\BattleBoats\Session.hpp">
+      <Filter>Domain\BattleBoats</Filter>
+    </ClInclude>
+    <ClInclude Include="Domain\BattleBoats\SubmarineBoat.hpp">
+      <Filter>Domain\BattleBoats</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
