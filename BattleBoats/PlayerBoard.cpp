@@ -96,8 +96,8 @@ namespace Domain::BattleBoats
 		while (valid == false)
 		{
 
-			int chosenColumn = rand() % 9;
-			int chosenRow = rand() % 9;
+			int chosenColumn = rand() % 10;
+			int chosenRow = rand() % 10;
 
 			Cell * chosenCell = NULL;
 			if ((chosenColumn < 10) && (chosenColumn >= 0))

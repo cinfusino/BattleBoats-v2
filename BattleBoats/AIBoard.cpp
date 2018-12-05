@@ -51,8 +51,8 @@ namespace Domain::BattleBoats
 		for (int i = length; i > 0; i--)
 		{
 
-			int chosenColumn = rand() % 9;
-			int chosenRow = rand() % 9;
+			int chosenColumn = rand() % 10;
+			int chosenRow = rand() % 10;
 
 			bool valid = false;
 			Cell * chosenCell = NULL;
